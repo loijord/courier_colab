@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_bf6244ec0d82dde5dca60e024642c584 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_bf6244ec0d82dde5dca60e024642c584" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_bf6244ec0d82dde5dca60e024642c584 = L.map(
+                "map_bf6244ec0d82dde5dca60e024642c584",
+                {
+                    center: [54.690697, 25.279788],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f95b7f8ac8cfa6a761947d98f97d3aca = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            var circle_marker_570bd28c98b85f019cd9ac4000c37d27 = L.circleMarker(
+                [54.729849, 25.2272649],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.712976079309464, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_570bd28c98b85f019cd9ac4000c37d27.bindTooltip(
+                `<div>
+                     Jammi kebabai (Medeinos g.)<br>VOTES: 1322
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c9b980955a2fba5290ceb8d6a84261c5 = L.circleMarker(
+                [54.68423, 25.27329],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.924764148611073, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_c9b980955a2fba5290ceb8d6a84261c5.bindTooltip(
+                `<div>
+                     Jammi kebabai (Tauro g.)<br>VOTES: 3160
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_33c7c85ae9a8c0a7f7df2b05401d9734 = L.circleMarker(
+                [54.72752789999999, 25.2409721],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.305477397131552, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_33c7c85ae9a8c0a7f7df2b05401d9734.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ukmergės g.)<br>VOTES: 1186
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_44e7a0f2ec17a37cb7eb9d45f33e554a = L.circleMarker(
+                [54.7128445, 25.2911682],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.143928459844674, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_44e7a0f2ec17a37cb7eb9d45f33e554a.bindTooltip(
+                `<div>
+                     Jammi kebabai (P. Lukšio g.)<br>VOTES: 588
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_150b07799798c9be4a2fcde41d8f15e7 = L.circleMarker(
+                [54.6982902, 25.2452007],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.777243302996675, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_150b07799798c9be4a2fcde41d8f15e7.bindTooltip(
+                `<div>
+                     Jammi kebabai (Blindžių g.)<br>VOTES: 1712
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f38da05b4cb8dcbe1c64a102c9447dc3 = L.circleMarker(
+                [54.73711290000001, 25.2674788],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.89746794865291, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_f38da05b4cb8dcbe1c64a102c9447dc3.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ateities g.)<br>VOTES: 1386
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a603b89aefa8cdef4413a3f00ec1e7d4 = L.circleMarker(
+                [54.6786041, 25.2949314],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.23118247591637, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_a603b89aefa8cdef4413a3f00ec1e7d4.bindTooltip(
+                `<div>
+                     Jammi Grill (Tymo turgus)<br>VOTES: 1162
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c984eb000c4880972d0496537da79f60 = L.circleMarker(
+                [54.7244634, 25.3416699],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.217141588429082, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_c984eb000c4880972d0496537da79f60.bindTooltip(
+                `<div>
+                     Jammi Kebabai Saulėtekis<br>VOTES: 230
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c0cc51ac9393cb2cf628efa15f8fbf51 = L.circleMarker(
+                [54.7042811, 25.2821538],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.6986484017813854, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_c0cc51ac9393cb2cf628efa15f8fbf51.bindTooltip(
+                `<div>
+                     Kebab Station (Žalgirio g.)<br>VOTES: 304
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_02cbfe193974922616b64c706304f6e5 = L.circleMarker(
+                [54.7348423, 25.2209522],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.7492855684535902, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_02cbfe193974922616b64c706304f6e5.bindTooltip(
+                `<div>
+                     Hadus kebabai<br>VOTES: 68
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_666c16bff5f6f619fb53530a65f23043 = L.circleMarker(
+                [54.7165212, 25.2452781],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.8836461788299115, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_666c16bff5f6f619fb53530a65f23043.bindTooltip(
+                `<div>
+                     Chief Pizza (Ukmergės g.)<br>VOTES: 530
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5f7fc2def7330c653ab97c8566f6221b = L.circleMarker(
+                [54.66440249999999, 25.2868134],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.733920151417849, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_5f7fc2def7330c653ab97c8566f6221b.bindTooltip(
+                `<div>
+                     Chief Pizza (Dzūkų g.)<br>VOTES: 498
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9a1336b5003f97b3db4bcd862d0139b1 = L.circleMarker(
+                [54.7245704, 25.3403368],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.4543039572248988, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_9a1336b5003f97b3db4bcd862d0139b1.bindTooltip(
+                `<div>
+                     Chief Pizza (Saulėtekio g.)<br>VOTES: 47
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_132c9e0f666c88ccf8e44cf6f284a516 = L.circleMarker(
+                [54.73043099999999, 25.239128],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.478594710324902, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_132c9e0f666c88ccf8e44cf6f284a516.bindTooltip(
+                `<div>
+                     Circle K (Fabijoniškės)<br>VOTES: 667
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8f0466121901640989be5cea0d0e50e2 = L.circleMarker(
+                [54.7187065, 25.3005656],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.657252408878007, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_8f0466121901640989be5cea0d0e50e2.bindTooltip(
+                `<div>
+                     Circle K (Žirmūnai)<br>VOTES: 482
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5dcbe6691263496c05d3b7b2d54fa1cd = L.circleMarker(
+                [54.6709612, 25.2366195],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.33927789363504, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_5dcbe6691263496c05d3b7b2d54fa1cd.bindTooltip(
+                `<div>
+                     Circle K (Vingis)<br>VOTES: 1197
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_842acc6ec3a735ae1f5810b72afe9876 = L.circleMarker(
+                [54.6950113, 25.2980008],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.496922348312314, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_842acc6ec3a735ae1f5810b72afe9876.bindTooltip(
+                `<div>
+                     Circle K (Žirmūnų tiltas)<br>VOTES: 938
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ff5c0e9da0c4e1a852d3b54cccc067ee = L.circleMarker(
+                [54.67164589999999, 25.2573911],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.9949874371066199, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_ff5c0e9da0c4e1a852d3b54cccc067ee.bindTooltip(
+                `<div>
+                     Chief Pizza (Žemaitės g.)<br>VOTES: 22
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_23dbbdf8fc945215f5067d73635ac59e = L.circleMarker(
+                [54.73597410000001, 25.2659472],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.612486080160912, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_23dbbdf8fc945215f5067d73635ac59e.bindTooltip(
+                `<div>
+                     Circle K (Baltupiai)<br>VOTES: 700
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9d8a0f7f456d962cfb2b40ec0db78e4d = L.circleMarker(
+                [54.7091013, 25.2279992],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.165752607316769, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_9d8a0f7f456d962cfb2b40ec0db78e4d.bindTooltip(
+                `<div>
+                     Circle K (Viršuliškės)<br>VOTES: 593
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9370fc030709cc3a0bb8972e2b1d5164 = L.circleMarker(
+                [54.7133219, 25.2093311],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.32024435529046, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_9370fc030709cc3a0bb8972e2b1d5164.bindTooltip(
+                `<div>
+                     Circle K (Talino g.)<br>VOTES: 629
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5b0f359d74f3e9ad79941bd3c7980f35 = L.circleMarker(
+                [54.66264810000001, 25.2350116],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.928321853610851, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_5b0f359d74f3e9ad79941bd3c7980f35.bindTooltip(
+                `<div>
+                     Circle K (Vilkpėdė II)<br>VOTES: 781
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6bc2867782de4234a7c194c9e78f8121 = L.circleMarker(
+                [54.7269217, 25.232931],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.7874562931719475, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_6bc2867782de4234a7c194c9e78f8121.bindTooltip(
+                `<div>
+                     Picų Rojus<br>VOTES: 71
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_667a7858092923867dec81103f01555e = L.circleMarker(
+                [54.6514705, 25.2693618],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.797844427026306, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_667a7858092923867dec81103f01555e.bindTooltip(
+                `<div>
+                     Circle K (Oro uostas)<br>VOTES: 747
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9fa900506854123b203b3176f73e6d2f = L.circleMarker(
+                [54.69427889999999, 25.26336659999999],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.905505905508858, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_9fa900506854123b203b3176f73e6d2f.bindTooltip(
+                `<div>
+                     Circle K (Šalia Parlamento)<br>VOTES: 775
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_581728946f592c8f02f81888f755ce92 = L.circleMarker(
+                [54.73043099999999, 25.239128],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.478594710324902, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_581728946f592c8f02f81888f755ce92.bindTooltip(
+                `<div>
+                     Circle k (Ukmergės)<br>VOTES: 667
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_667c7565a9411eeacc3a00b14de02c36 = L.circleMarker(
+                [54.69529499999999, 25.2186363],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.499090833947007, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_667c7565a9411eeacc3a00b14de02c36.bindTooltip(
+                `<div>
+                     Circle k (Karoliniškės)<br>VOTES: 672
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_61ad02bedb1f8a57ebf00c18f1aedbcc = L.circleMarker(
+                [54.6585353, 25.2663467],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7649701194033396, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_61ad02bedb1f8a57ebf00c18f1aedbcc.bindTooltip(
+                `<div>
+                     Circle K (Tūkstantmetis)<br>VOTES: 315
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9e7adebb6fdf66c5a995e96ac6eeafb3 = L.circleMarker(
+                [54.68604699999999, 25.2797363],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.7035623639735145, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_9e7adebb6fdf66c5a995e96ac6eeafb3.bindTooltip(
+                `<div>
+                     AlaTurka (Vilniaus g.)<br>VOTES: 11
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e61b2ca5d13051782e245598a630a0c5 = L.circleMarker(
+                [54.6580433, 25.1427195],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.593178292750773, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_e61b2ca5d13051782e245598a630a0c5.bindTooltip(
+                `<div>
+                     Krims Kebabai<br>VOTES: 966
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_791306a9baf5cacdb9fbc6947d2e9b95 = L.circleMarker(
+                [54.6943267, 25.2887341],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.7035623639735145, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_791306a9baf5cacdb9fbc6947d2e9b95.bindTooltip(
+                `<div>
+                     Caffeine (Business Stadium)<br>VOTES: 11
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_99e6af0428a8e070acd02bf28f3c8989 = L.circleMarker(
+                [54.7128445, 25.2911682],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.143928459844674, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_99e6af0428a8e070acd02bf28f3c8989.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ozas)<br>VOTES: 588
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_1998bd82b82a0f99393265211ae0a631 = L.circleMarker(
+                [54.66173010000001, 25.2353382],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.41927595879687, "stroke": true, "weight": 3}
+            ).addTo(map_bf6244ec0d82dde5dca60e024642c584);
+        
+    
+            circle_marker_1998bd82b82a0f99393265211ae0a631.bindTooltip(
+                `<div>
+                     Circle K (Vilkpėdė I)<br>VOTES: 434
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
