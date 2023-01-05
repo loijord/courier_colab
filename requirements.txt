@@ -1,0 +1,8 @@
+jupyter
+pillow
+pytesseract
+numpy
+matplotlib
+geopy
+pandas
+folium
