@@ -6,3 +6,6 @@ matplotlib
 geopy
 pandas
 folium
+git+https://github.com/m-wrzr/populartimes
+gpxpy
+gpx-converter
