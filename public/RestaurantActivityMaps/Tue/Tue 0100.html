@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_04feb051482b86a82cb906f21fff8fed {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_04feb051482b86a82cb906f21fff8fed" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_04feb051482b86a82cb906f21fff8fed = L.map(
+                "map_04feb051482b86a82cb906f21fff8fed",
+                {
+                    center: [54.690697, 25.279788],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 14,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_f3955a98301febea145b7cd53036d7be = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            var circle_marker_31b2c4f81895d7957f56f971f894ac46 = L.circleMarker(
+                [54.708286, 25.2860129],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.6363961030678927, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_31b2c4f81895d7957f56f971f894ac46.bindTooltip(
+                `<div>
+                     Bolt Market (Kalvarijų g.)<br>Mon 09:00 - Tue 02:00<br>VOTES: 9
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e1602e0c659928ad9850e62ce19564d7 = L.circleMarker(
+                [54.69919059999999, 25.2122793],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.444765317682251, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_e1602e0c659928ad9850e62ce19564d7.bindTooltip(
+                `<div>
+                     McDonald’s® (Pilaitė)<br>Tue 00:00 - Tue 23:59<br>VOTES: 923
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_91120c103d9e76602cadadcd1568a234 = L.circleMarker(
+                [54.6764239, 25.2565055],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.98999545040852, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_91120c103d9e76602cadadcd1568a234.bindTooltip(
+                `<div>
+                     McDonald’s® (Kedrų g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 2684
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8251849a72ed78939d29d06c34c3e055 = L.circleMarker(
+                [54.68423, 25.27329],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11.924764148611073, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_8251849a72ed78939d29d06c34c3e055.bindTooltip(
+                `<div>
+                     Jammi kebabai (Tauro g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 3160
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cdc315ebeecf22a1e4d3083dcdcfb4de = L.circleMarker(
+                [54.729849, 25.2272649],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.718808198161164, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_cdc315ebeecf22a1e4d3083dcdcfb4de.bindTooltip(
+                `<div>
+                     Jammi kebabai (Medeinos g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 1324
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a3ec77e22685e8e6af7534f98af1075e = L.circleMarker(
+                [54.72752789999999, 25.2409721],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.308556629047899, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_a3ec77e22685e8e6af7534f98af1075e.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ukmergės g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 1187
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_67693ed1856cfd609d7fd3fcad466d4f = L.circleMarker(
+                [54.7128445, 25.2911682],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.1526692111953, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_67693ed1856cfd609d7fd3fcad466d4f.bindTooltip(
+                `<div>
+                     Jammi kebabai (P. Lukšio g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 590
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_3b68ea0579a90919e570b04e541d0b1d = L.circleMarker(
+                [54.6982902, 25.2452007],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 8.777243302996675, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_3b68ea0579a90919e570b04e541d0b1d.bindTooltip(
+                `<div>
+                     Jammi kebabai (Blindžių g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 1712
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_81fa07df11be352bf323c4b5b906e1b2 = L.circleMarker(
+                [54.7161191, 25.2462505],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.4743416490252569, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_81fa07df11be352bf323c4b5b906e1b2.bindTooltip(
+                `<div>
+                     Bolt Market (Ukmergės g.)<br>Mon 09:00 - Tue 01:00<br>VOTES: 5
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_90ca941f6e02027454f8923c0ac62b4c = L.circleMarker(
+                [54.73711290000001, 25.2674788],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.900316449358216, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_90ca941f6e02027454f8923c0ac62b4c.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ateities g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 1387
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_10fed68e998fa38ddcae0e34c80569d0 = L.circleMarker(
+                [54.67150799999999, 25.285432],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.17876596266449, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_10fed68e998fa38ddcae0e34c80569d0.bindTooltip(
+                `<div>
+                     McDonald’s® (Seinų g.)<br>Tue 00:00 - Tue 23:59<br>VOTES: 6558
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d5319ade816ef816445c57076ff9fe87 = L.circleMarker(
+                [54.68749990000001, 25.2785689],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.57882248616215, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_d5319ade816ef816445c57076ff9fe87.bindTooltip(
+                `<div>
+                     McDonald’s® (Gedimino pr.)<br>Mon 07:00 - Tue 23:30<br>VOTES: 6867
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_eaf12b0949abc33600250716c60e6cb0 = L.circleMarker(
+                [54.6719018, 25.2574683],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.21213203435596426, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_eaf12b0949abc33600250716c60e6cb0.bindTooltip(
+                `<div>
+                     Bolt Market (Smolensko g.)<br>Mon 09:00 - Tue 01:00<br>VOTES: 1
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0f1b76afc9a617f95c5e1bf2eb0f54ef = L.circleMarker(
+                [54.7072484, 25.1798361],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.0, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_0f1b76afc9a617f95c5e1bf2eb0f54ef.bindTooltip(
+                `<div>
+                     Jammi kebabai (Vydūno g.)<br>Mon 07:00 - Tue 02:00<br>VOTES: 800
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b3deba486bffaa8bb7ede8fe201c37b8 = L.circleMarker(
+                [54.6786041, 25.2949314],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.23118247591637, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_b3deba486bffaa8bb7ede8fe201c37b8.bindTooltip(
+                `<div>
+                     Jammi Grill (Tymo turgus)<br>Tue 00:00 - Tue 23:59<br>VOTES: 1162
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b4fbb69d04f7adb8efbcd3f91e8c93de = L.circleMarker(
+                [54.7244634, 25.3416699],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.217141588429082, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_b4fbb69d04f7adb8efbcd3f91e8c93de.bindTooltip(
+                `<div>
+                     Jammi Kebabai Saulėtekis<br>Tue 00:00 - Tue 23:59<br>VOTES: 230
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_56777378cd985ae2602bd91906c9f4fe = L.circleMarker(
+                [54.7042811, 25.2821538],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "darkgreen", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7047267105685404, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_56777378cd985ae2602bd91906c9f4fe.bindTooltip(
+                `<div>
+                     Kebab Station (Žalgirio g.)<br>Mon 10:00 - Tue 05:00<br>VOTES: 305
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5ee3add0cb31886fa8527296a8dcca4c = L.circleMarker(
+                [54.7348423, 25.2209522],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.7492855684535902, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_5ee3add0cb31886fa8527296a8dcca4c.bindTooltip(
+                `<div>
+                     Hadus kebabai<br>Mon 12:00 - Tue 10:30<br>VOTES: 68
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cce9c6e8c6c828f7937f618e6b557afc = L.circleMarker(
+                [54.6771091, 25.2654966],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7409891740019776, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_cce9c6e8c6c828f7937f618e6b557afc.bindTooltip(
+                `<div>
+                     Sofra Chicken & Fish<br>Mon 11:00 - Tue 03:00<br>VOTES: 311
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_c9af4f2aeda023fd047c214f2503827b = L.circleMarker(
+                [54.7165212, 25.2452781],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.8836461788299115, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_c9af4f2aeda023fd047c214f2503827b.bindTooltip(
+                `<div>
+                     Chief Pizza (Ukmergės g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 530
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_56eeb185f00a50c1a0dd7a3f9f26af90 = L.circleMarker(
+                [54.7258046, 25.3305567],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.536730178793164, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_56eeb185f00a50c1a0dd7a3f9f26af90.bindTooltip(
+                `<div>
+                     Yala Yala Bistro (Saulėtekio al.)<br>Mon 10:00 - Tue 01:00<br>VOTES: 143
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8abc615ede3d25200fdda58ad96ab5a8 = L.circleMarker(
+                [54.66440249999999, 25.2868134],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.733920151417849, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_8abc615ede3d25200fdda58ad96ab5a8.bindTooltip(
+                `<div>
+                     Chief Pizza (Dzūkų g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 498
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_745ae9f440e27d4413d43064bdf9e4f8 = L.circleMarker(
+                [54.7245704, 25.3403368],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.4543039572248988, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_745ae9f440e27d4413d43064bdf9e4f8.bindTooltip(
+                `<div>
+                     Chief Pizza (Saulėtekio g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 47
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_a4275a2231e0e0612078a40bab12e517 = L.circleMarker(
+                [54.6868809, 25.2819325],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9.543584232352119, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_a4275a2231e0e0612078a40bab12e517.bindTooltip(
+                `<div>
+                     Plus Plus Plus (Gedimino pr.)<br>Mon 11:00 - Tue 02:00<br>VOTES: 2024
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f245085280bc9b9890b97e76b75695c7 = L.circleMarker(
+                [54.6801964, 25.276267],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.8371173070873834, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_f245085280bc9b9890b97e76b75695c7.bindTooltip(
+                `<div>
+                     Gastrobaras "Spyglys"<br>Mon 17:00 - Tue 02:00<br>VOTES: 75
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e45e361fad9b1bfff1d10663c416fe4a = L.circleMarker(
+                [54.73043099999999, 25.239128],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.478594710324902, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_e45e361fad9b1bfff1d10663c416fe4a.bindTooltip(
+                `<div>
+                     Circle K (Fabijoniškės)<br>Thu 00:00 - Wed 23:59<br>VOTES: 667
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6d9424d98c8217f43781cbd820813857 = L.circleMarker(
+                [54.7042811, 25.2821538],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7047267105685404, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_6d9424d98c8217f43781cbd820813857.bindTooltip(
+                `<div>
+                     Pizza Station (Gedimino pr.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 305
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7e7a8b93aedd7e9ab4dd1b073821db17 = L.circleMarker(
+                [54.7187065, 25.3005656],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.657252408878007, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_7e7a8b93aedd7e9ab4dd1b073821db17.bindTooltip(
+                `<div>
+                     Circle K (Žirmūnai)<br>Thu 00:00 - Wed 23:59<br>VOTES: 482
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e99ce8935b1b985c11f248a3aefa5810 = L.circleMarker(
+                [54.6709612, 25.2366195],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.33927789363504, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_e99ce8935b1b985c11f248a3aefa5810.bindTooltip(
+                `<div>
+                     Circle K (Vingis)<br>Thu 00:00 - Wed 23:59<br>VOTES: 1197
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ca908bf9e8820bbc6b8f49cd23f5471e = L.circleMarker(
+                [54.6771091, 25.2654966],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7409891740019776, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_ca908bf9e8820bbc6b8f49cd23f5471e.bindTooltip(
+                `<div>
+                     Sofra Chicken & Fish (Kalvarijų g.)<br>Mon 11:00 - Tue 03:00<br>VOTES: 311
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f87820a4099e06d2ea8186e989e04a83 = L.circleMarker(
+                [54.6950113, 25.2980008],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.496922348312314, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_f87820a4099e06d2ea8186e989e04a83.bindTooltip(
+                `<div>
+                     Circle K (Žirmūnų tiltas)<br>Thu 00:00 - Wed 23:59<br>VOTES: 938
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ba695ad055aed03c5eadbf47b3b55341 = L.circleMarker(
+                [54.7071221, 25.1842218],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.035623639735143, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_ba695ad055aed03c5eadbf47b3b55341.bindTooltip(
+                `<div>
+                     Mekan Döner Kebap (Pilaitė)<br>Mon 10:00 - Tue 01:00<br>VOTES: 1100
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_1d29a1b57f73a212830448759615e84e = L.circleMarker(
+                [54.67164589999999, 25.2573911],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.9949874371066199, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_1d29a1b57f73a212830448759615e84e.bindTooltip(
+                `<div>
+                     Chief Pizza (Žemaitės g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 22
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7e5ba5e33e59369bae3d9c499cf289dd = L.circleMarker(
+                [54.6813011, 25.2852459],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.33927789363504, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_7e5ba5e33e59369bae3d9c499cf289dd.bindTooltip(
+                `<div>
+                     Cozy<br>Mon 09:30 - Tue 01:00<br>VOTES: 1197
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_57eba44956d1cdb023bce4d151d42483 = L.circleMarker(
+                [54.73597410000001, 25.2659472],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.616493568054716, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_57eba44956d1cdb023bce4d151d42483.bindTooltip(
+                `<div>
+                     Circle K (Baltupiai)<br>Thu 00:00 - Wed 23:59<br>VOTES: 701
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_96a398cf54af023f32c3ab0dc98bef00 = L.circleMarker(
+                [54.7091013, 25.2279992],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.165752607316769, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_96a398cf54af023f32c3ab0dc98bef00.bindTooltip(
+                `<div>
+                     Circle K (Viršuliškės)<br>Thu 00:00 - Wed 23:59<br>VOTES: 593
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_54b19d4c16f5dd375a285c1f82f1bfb0 = L.circleMarker(
+                [54.7133219, 25.2093311],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.32024435529046, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_54b19d4c16f5dd375a285c1f82f1bfb0.bindTooltip(
+                `<div>
+                     Circle K (Talino g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 629
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_7e693cb4dbd8783cb03b124065d46104 = L.circleMarker(
+                [54.68472659999999, 25.2793018],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.948972554536795, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_7e693cb4dbd8783cb03b124065d46104.bindTooltip(
+                `<div>
+                     Republic of Chicken<br>Mon 16:00 - Tue 01:00<br>VOTES: 2664
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_52b7c814b1264da2938e9c4b3ddf1c6e = L.circleMarker(
+                [54.66264810000001, 25.2350116],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.928321853610851, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_52b7c814b1264da2938e9c4b3ddf1c6e.bindTooltip(
+                `<div>
+                     Circle K (Vilkpėdė II)<br>Thu 00:00 - Wed 23:59<br>VOTES: 781
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_cf54e59fcecd3524f04a3a0eb9a07143 = L.circleMarker(
+                [54.68227779999999, 25.2797308],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.920726306797165, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_cf54e59fcecd3524f04a3a0eb9a07143.bindTooltip(
+                `<div>
+                     Plus Plus Plus (Vilniaus g.)<br>Mon 17:00 - Tue 01:00<br>VOTES: 779
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ce51685b0af6441cd12cbbbfb48854f3 = L.circleMarker(
+                [54.7269217, 25.232931],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.7874562931719475, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_ce51685b0af6441cd12cbbbfb48854f3.bindTooltip(
+                `<div>
+                     Picų Rojus<br>Thu 00:00 - Wed 23:59<br>VOTES: 71
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6a8694c6f67d07a3ba3f3cea2d85295e = L.circleMarker(
+                [54.6514705, 25.2693618],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.801723881744114, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_6a8694c6f67d07a3ba3f3cea2d85295e.bindTooltip(
+                `<div>
+                     Circle K (Oro uostas)<br>Thu 00:00 - Wed 23:59<br>VOTES: 748
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9d8138340d05beed7a0a24f48e8521d6 = L.circleMarker(
+                [54.67290490000001, 25.24569919999999],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.5588457268119895, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_9d8138340d05beed7a0a24f48e8521d6.bindTooltip(
+                `<div>
+                     Saunch<br>Mon 20:00 - Tue 05:00<br>VOTES: 54
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_092a262acb7887b29ce3dfec9df6ed7e = L.circleMarker(
+                [54.69427889999999, 25.26336659999999],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.905505905508858, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_092a262acb7887b29ce3dfec9df6ed7e.bindTooltip(
+                `<div>
+                     Circle K (Šalia Parlamento)<br>Thu 00:00 - Wed 23:59<br>VOTES: 775
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_8f558b296afee4034bff8efd0d828372 = L.circleMarker(
+                [54.6842207, 25.2792409],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.592430440906258, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_8f558b296afee4034bff8efd0d828372.bindTooltip(
+                `<div>
+                     Gringo<br>Mon 16:00 - Tue 01:00<br>VOTES: 1281
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0235de2fcc152058e18dcda444f1d4c1 = L.circleMarker(
+                [54.73043099999999, 25.239128],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.478594710324902, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_0235de2fcc152058e18dcda444f1d4c1.bindTooltip(
+                `<div>
+                     Circle k (Ukmergės)<br>Thu 00:00 - Wed 23:59<br>VOTES: 667
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_89ecc5aa81119c5eccbdcb2b7886491b = L.circleMarker(
+                [54.6798564, 25.2789685],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2.545584412271571, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_89ecc5aa81119c5eccbdcb2b7886491b.bindTooltip(
+                `<div>
+                     Memo Kebabinė (Trakų g.)<br>Mon 13:00 - Tue 02:00<br>VOTES: 144
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_b1f66045e9ad847a36089ccc9f720132 = L.circleMarker(
+                [54.7244634, 25.3416699],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.217141588429082, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_b1f66045e9ad847a36089ccc9f720132.bindTooltip(
+                `<div>
+                     Veggie Hut<br>Thu 00:00 - Wed 23:59<br>VOTES: 230
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d60ba3d103dc43ea3d89e39a89dd9361 = L.circleMarker(
+                [54.69529499999999, 25.2186363],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.499090833947007, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_d60ba3d103dc43ea3d89e39a89dd9361.bindTooltip(
+                `<div>
+                     Circle k (Karoliniškės)<br>Thu 00:00 - Wed 23:59<br>VOTES: 672
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_f85f3ffba0a8c78aa44df5e4beba3443 = L.circleMarker(
+                [54.6585353, 25.2663467],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7709415269929605, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_f85f3ffba0a8c78aa44df5e4beba3443.bindTooltip(
+                `<div>
+                     Circle K (Tūkstantmetis)<br>Thu 00:00 - Wed 23:59<br>VOTES: 316
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_58068c5c1e786d144371d7890c70efb5 = L.circleMarker(
+                [54.7165212, 25.2452781],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.8836461788299115, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_58068c5c1e786d144371d7890c70efb5.bindTooltip(
+                `<div>
+                     Lucas Pizza (Ukmergės g.)<br>Thu 00:00 - Wed 23:59<br>VOTES: 530
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_ecd44a50ee904639f45f9fba2252679b = L.circleMarker(
+                [54.68604699999999, 25.2797363],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.7035623639735145, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_ecd44a50ee904639f45f9fba2252679b.bindTooltip(
+                `<div>
+                     AlaTurka (Vilniaus g.)<br>Mon 11:00 - Tue 06:00<br>VOTES: 11
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_5cebec72e67d1ddbd08e2b0f4f8025ce = L.circleMarker(
+                [54.7241254, 25.3350683],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.52990066116245, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_5cebec72e67d1ddbd08e2b0f4f8025ce.bindTooltip(
+                `<div>
+                     Saido Doner Kebab<br>Mon 10:00 - Tue 01:00<br>VOTES: 456
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_0bc3913c6aef24523a1ab0fcccc61e03 = L.circleMarker(
+                [54.67883819999999, 25.2672492],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.161895003862225, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_0bc3913c6aef24523a1ab0fcccc61e03.bindTooltip(
+                `<div>
+                     Crepes N' Waffles<br>Mon 11:00 - Tue 02:00<br>VOTES: 30
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_287b997adc4b86512a5b49eb98ef43b5 = L.circleMarker(
+                [54.6580433, 25.1427195],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 6.596590028188807, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_287b997adc4b86512a5b49eb98ef43b5.bindTooltip(
+                `<div>
+                     Krims Kebabai<br>Thu 00:00 - Wed 23:59<br>VOTES: 967
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_6e3c6ab4bb649ac8a4319829a0569b39 = L.circleMarker(
+                [54.68472659999999, 25.2793018],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 10.948972554536795, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_6e3c6ab4bb649ac8a4319829a0569b39.bindTooltip(
+                `<div>
+                     rePUBlic No. 4<br>Mon 16:00 - Tue 01:00<br>VOTES: 2664
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_167dbdd0ce13e745c8a3de68f795235d = L.circleMarker(
+                [54.7042811, 25.2821538],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3.7047267105685404, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_167dbdd0ce13e745c8a3de68f795235d.bindTooltip(
+                `<div>
+                     Vegan Station<br>Thu 00:00 - Wed 23:59<br>VOTES: 305
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_2a48179a8ec15c2c770431872434fcb3 = L.circleMarker(
+                [54.68542490000001, 25.27763],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1.3910427743243556, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_2a48179a8ec15c2c770431872434fcb3.bindTooltip(
+                `<div>
+                     Akcentai<br>Mon 17:00 - Tue 03:00<br>VOTES: 43
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_55086fecb258e13c7bb2a68961e53020 = L.circleMarker(
+                [54.7071221, 25.1842218],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 7.035623639735143, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_55086fecb258e13c7bb2a68961e53020.bindTooltip(
+                `<div>
+                     Mekan Istanbul<br>Mon 10:00 - Tue 01:00<br>VOTES: 1100
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e7e35b390562151e9205ab842e130d2a = L.circleMarker(
+                [54.6943267, 25.2887341],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.7035623639735145, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_e7e35b390562151e9205ab842e130d2a.bindTooltip(
+                `<div>
+                     Caffeine (Business Stadium)<br>Thu 00:00 - Wed 23:59<br>VOTES: 11
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_e761113f2b9d703f0995af010cdebbdd = L.circleMarker(
+                [54.6931288, 25.2790986],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 0.4242640687119285, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_e761113f2b9d703f0995af010cdebbdd.bindTooltip(
+                `<div>
+                     Bowl Gang<br>Thu 00:00 - Wed 23:59<br>VOTES: 4
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_9ec167187fa70c89e75f0eb326ec823b = L.circleMarker(
+                [54.7128445, 25.2911682],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5.1526692111953, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_9ec167187fa70c89e75f0eb326ec823b.bindTooltip(
+                `<div>
+                     Jammi kebabai (Ozas)<br>Thu 00:00 - Wed 23:59<br>VOTES: 590
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var circle_marker_d7ce748d751a77bed8c58badda43be84 = L.circleMarker(
+                [54.66173010000001, 25.2353382],
+                {"bubblingMouseEvents": true, "color": "black", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "blue", "fillOpacity": 0.5, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 4.41927595879687, "stroke": true, "weight": 3}
+            ).addTo(map_04feb051482b86a82cb906f21fff8fed);
+        
+    
+            circle_marker_d7ce748d751a77bed8c58badda43be84.bindTooltip(
+                `<div>
+                     Circle K (Vilkpėdė I)<br>Thu 00:00 - Wed 23:59<br>VOTES: 434
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
