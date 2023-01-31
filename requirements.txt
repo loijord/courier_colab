@@ -9,3 +9,5 @@ folium
 git+https://github.com/m-wrzr/populartimes
 gpxpy
 gpx-converter
+plotly
+kaleido==0.2.1
