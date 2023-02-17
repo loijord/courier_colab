@@ -14597,7 +14597,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Restoran%C5%B3-darbo-laikas-ir-u%C5%BEimtumas">Restoran&#371; darbo laikas ir u&#382;imtumas<a class="anchor-link" href="#Restoran%C5%B3-darbo-laikas-ir-u%C5%BEimtumas">&#182;</a></h2><p>Dabartiniame variante galima peržiūrėti kasvalandinių duomenų animuotus žemėlapius, kokios užsakymų atsiėmimo vietos dirba tam tikrą valandą ir koks jų užimtumas.</p>
+<h2 id="Bolt-restoran%C5%B3-darbo-laikas-ir-u%C5%BEimtumas">Bolt restoran&#371; darbo laikas ir u&#382;imtumas<a class="anchor-link" href="#Bolt-restoran%C5%B3-darbo-laikas-ir-u%C5%BEimtumas">&#182;</a></h2><p>Animuoti restoranų užimtumo žemėlapiai</p>
 <ul>
 <li><a href="./RestaurantActivityMaps/bolt_animation_test_Mon.html">Monday</a></li>
 <li><a href="./RestaurantActivityMaps/bolt_animation_test_Tue.html">Tueday</a></li>
@@ -14608,6 +14608,11 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <li><a href="./RestaurantActivityMaps/bolt_animation_test_Sun.html">Sunday</a></li>
 </ul>
 <p><strong>Taip pat galima peržiūrėti atskirą žemėlapį su visomis &gt;700 aktyvių Bolt vietų.</strong> Žemėlapis <a href="./bolt_restaurants_vilnius.html">pasiekiamas čia</a></p>
+<p><font color='red'>Nauja informacija!</font> <strong>Dalinuosi, koks buvo uždarbis kiekvienos dienos realiu laiku dirbant per Bolt app'są:</strong></p>
+<ul>
+<li><a href="./stats/payments/2021-02-16/preview.html">2021-02-16</a></li>
+<li><a href="./stats/payments/2023-02-18/preview.html">2021-02-18</a></li>
+</ul>
 
 </div>
 </div>
@@ -14619,31 +14624,13 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Paai%C5%A1kinimai">Paai&#353;kinimai<a class="anchor-link" href="#Paai%C5%A1kinimai">&#182;</a></h3><ul>
-<li>Violetinis grafikas reiškia, kad užimtumo duomenys sėkmingai paimti už Google Places API.</li>
-<li>Pilkas grafikas reiškia, kad Google neturi duomenų apie tos vietos užimtumą, todėl imamas visų vietų išvidurkintas variantas.</li>
-<li>Žaliai pažymėtos vietos, kurių darbo laikas ir koordinatės patikslintos pagal Bolt Food programėlę.</li>
-<li>Mėlynai pažymėtos vietos kol kas dar nepatikslintos, gali būti netikslumų.</li>
+<h3 id="Info">Info<a class="anchor-link" href="#Info">&#182;</a></h3><ul>
+<li>450/818 vietų adresai paimti iš Bolt Food (žali rutuliai).</li>
+<li>Likusių vietų adresai paimti iš Google Places API ir gali būti neteisingi (mėlyni rutuliai).</li>
+<li>Užimtumo duomenys paimti iš Google Places API (violetiniai grafikai)</li>
+<li>Ne visi restoranai turi užimtumo duomenis. Ten, kur neturi, imamas visų vietų vidurkis (pilki grafikai)</li>
+<li>Rutulių dydis parinktas pagal Google skelbiamą įvertinimų skaičių (VOTES)</li>
 </ul>
-<h3 id="Netikslumai">Netikslumai<a class="anchor-link" href="#Netikslumai">&#182;</a></h3><ul>
-<li>Degalinės, Narvesen kioskai ir Gedo McDonalds balsų skaičius didelis, bet užsakymų iš jų yra mažai.</li>
-<li>Kai kurios labai aktyvios vietos, tokioms kaip Bolt Marketai, turi mažai balsų.</li>
-<li>Kai kurios vietos metamos klaidinguose adresuose.</li>
-<li>Kai kurie adresai geri, bet koordinatės nepakankamai tikslios.</li>
-</ul>
-<h3 id="Kaip-surinkti-duomenys">Kaip surinkti duomenys<a class="anchor-link" href="#Kaip-surinkti-duomenys">&#182;</a></h3><ul>
-<li>Visos egzistuojančios vietos nukopijuotos iš <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bool Food Website</a>.</li>
-<li>Kiekvienai vietai iš Google duomenų automatiškai ištrauktas adresas, koordinatės, darbo laikas, užimtumo grafikas skirtingomis savaitės dienomis ir Google vartotojų balsų skaičius.</li>
-<li>Naudota ribota <a href="https://medium.com/swlh/google-maps-places-api-28b8fdf28082">Google Places API</a> prieiga, gauta per <a href="https://console.cloud.google.com/">Google Cloud</a> platformą.</li>
-<li>5% vietų Google neaptinka arba aptinka neteisinguose adresuose. Kai kurios vietos - be darbo laikų.</li>
-<li>30% vietų informacija buvo patikslinta rankiniu būdu remiantis Bolt Food programėle.</li>
-</ul>
-<h3 id="Atviri-duomenys">Atviri duomenys<a class="anchor-link" href="#Atviri-duomenys">&#182;</a></h3><ul>
-<li>Restoranų sąrašas iš <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bool Food Website</a>: <a href="bolt_restaurants.txt"><code>bolt_restaurants.txt</code></a></li>
-<li>Google duomenys per <a href="https://medium.com/swlh/google-maps-places-api-28b8fdf28082">Google Places API</a> prieigą: <a href="bolt_restaurants_vilnius.txt"><code>bolt_restaurants_vilnius.txt</code></a></li>
-<li>Užimtumo duomenys (source: <code>https://github.com/m-wrzr/populartimes</code>): <a href="popular_times.npz"><code>popular_times.npz</code></a></li>
-</ul>
-<hr />
 
 </div>
 </div>
@@ -14655,37 +14642,22 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="TODO">TODO<a class="anchor-link" href="#TODO">&#182;</a></h3><ul>
-<li>Patikslinti adresus ir darbo valandas pagal <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bolt Food</a> programėlės parodymus.</li>
-<li>Atverti užsakymų pristatymo duomenis:<ul>
-<li>Užsakymo laukimas</li>
-<li>Atvykimas į restoraną</li>
-<li>Laukimas restorane / restorano ieškojimas</li>
-<li>Vykimas pas klientą</li>
-<li>Kliento ieškojimas / atvykimas prie durų</li>
-<li>Kassekundinės GPS koordinatės</li>
+<h3 id="Tolimesnis-projekto-vystymas">Tolimesnis projekto vystymas<a class="anchor-link" href="#Tolimesnis-projekto-vystymas">&#182;</a></h3><ul>
+<li>Google skelbiamas kiekvienos vietos įvertinimų skaičius ir užimtumas ne visada atspindi tikrą situaciją, kiek dažnai iš ten įkrenta Bolt užsakymai realiu laiku.</li>
+<li>Šiuo metu yra renkama užsakymų informacija:<ul>
+<li>kiekvieno nuvežto užsakymo maršrutas</li>
+<li>maršrutas, kuriuo važinėta laukiant naujo užsakymo</li>
+<li>kiek laiko užtruko laukti naujo užsakymo</li>
+<li>kiek laiko užtruko atskiros užsakymo vykdymo dalys (keliavimas iki restorano, užtrukimas restorane, keliavimas iki kliento, užtrukimas atiduodant užsakymą)</li>
 </ul>
 </li>
-<li>Apjungiant užsakymų pristatymo duomenis su restoranų informacija, išanalizuoti, kur yra pagrindiniai uždarbio ir laiko praradimai.</li>
-<li>Sukurti daug vizualesnius <a href="https://levelup.gitconnected.com/how-to-make-interactive-maps-with-folium-f0b66f157737">Heat Maps</a>, braižomus pagal spėjamus restoranų <strong>traukos rodiklius</strong>.</li>
-<li>Įvertinti, kaip užsakymų pasiūla kinta laike.</li>
+<li>Planuojama tyrimo imtis - 1000 pristatytų užsakymų</li>
+<li>Gauti duomenys realiu laiku leis geriau įvertinti:<ul>
+<li>kiekvienos vietos Bolt užsakymų pasiūlą</li>
+<li>per kiek laiko tikėtina sulaukti naujo užsakymo būnant tam tikroje vietoje.</li>
+<li>kokių užsakymų neverta pristatinėti atsižvelgiant į vidutinius nuostolius, patiriamus dėl naujo užsakymo laukimo.</li>
 </ul>
-
-</div>
-</div>
-</div>
-</div>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
-</div>
-<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Nuo-ko-priklauso-restorano-traukos-rodiklis">Nuo ko priklauso restorano traukos rodiklis<a class="anchor-link" href="#Nuo-ko-priklauso-restorano-traukos-rodiklis">&#182;</a></h3><p><strong>Traukos rodiklis</strong> - tai tikimybė gauti užsakymą iš tam tikro restorano tam tikru metu su sąlyga, kad užsakymą galima gauti ir iš aplinkinių restoranų. Jis priklauso nuo:</p>
-<ul>
-<li>Balsų skaičius pagal Google duomenis</li>
-<li>Užimtumas pagal Google duomenis</li>
-<li>Paklausos rodiklis, nustatomas pagal sukauptą pristatinėjimo maršrutų informaciją</li>
+</li>
 </ul>
 
 </div>
@@ -14725,7 +14697,45 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Kad sužinoti užsakymo gavimo tikimybę laukiant konkrečioje vietoje, reikia sudėti visų aplinkinių restoranų traukos rodiklius</strong></p>
+<h3 id="Kaip-surinkti-duomenys">Kaip surinkti duomenys<a class="anchor-link" href="#Kaip-surinkti-duomenys">&#182;</a></h3><ul>
+<li>Visų egzistuojančių vietų vardai nukopijuoti iš <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bool Food Website</a>.</li>
+<li>Kiekvienai vietai surinkta iš Google duomenų prieinama informacija (adresas, koordinatės, darbo laikas, užimtumo grafikas skirtingomis savaitės dienomis ir Google vartotojų balsų skaičius).</li>
+<li>Apie 5% vietų Google identifikuotos neteisingai.</li>
+<li>Apie 60% vietų informacija jau ištaisyta rankiniu būdu remiantis Bolt Food programėle.</li>
+<li>Naudota ribota <a href="https://medium.com/swlh/google-maps-places-api-28b8fdf28082">Google Places API</a> prieiga, gauta per <a href="https://console.cloud.google.com/">Google Cloud</a> platformą.</li>
+</ul>
+<h3 id="Atviri-duomenys">Atviri duomenys<a class="anchor-link" href="#Atviri-duomenys">&#182;</a></h3><ul>
+<li>Restoranų sąrašas iš <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bolt Food Website</a>: <a href="bolt_restaurants.txt"><code>bolt_restaurants.txt</code></a></li>
+<li>Google teikiami duomenys per <a href="https://medium.com/swlh/google-maps-places-api-28b8fdf28082">Google Places API</a> prieigą: <a href="bolt_restaurants_vilnius.txt"><code>bolt_restaurants_vilnius.txt</code></a></li>
+<li>Užimtumo duomenys (source: <code>https://github.com/m-wrzr/populartimes</code>): <a href="../../Downloads/popular_times.npz"><code>popular_times.npz</code></a></li>
+</ul>
+<hr />
+
+</div>
+</div>
+</div>
+</div>
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
+</div>
+<div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h3 id="TODO">TODO<a class="anchor-link" href="#TODO">&#182;</a></h3><ul>
+<li>Patikslinti adresus ir darbo valandas pagal <a href="https://food.bolt.eu/lt-LT/9-vilnius">Bolt Food</a> programėlės parodymus.</li>
+<li>Atverti užsakymų pristatymo duomenis:<ul>
+<li>Užsakymo laukimas</li>
+<li>Atvykimas į restoraną</li>
+<li>Laukimas restorane / restorano ieškojimas</li>
+<li>Vykimas pas klientą</li>
+<li>Kliento ieškojimas / atvykimas prie durų</li>
+<li>Kassekundinės GPS koordinatės</li>
+</ul>
+</li>
+<li>Apjungiant užsakymų pristatymo duomenis su restoranų informacija, išanalizuoti, kur yra pagrindiniai uždarbio ir laiko praradimai.</li>
+<li>Sukurti daug vizualesnius <a href="https://levelup.gitconnected.com/how-to-make-interactive-maps-with-folium-f0b66f157737">Heat Maps</a>, braižomus pagal spėjamus restoranų <strong>traukos rodiklius</strong>.</li>
+<li>Įvertinti, kaip užsakymų pasiūla kinta laike.</li>
+</ul>
 
 </div>
 </div>
