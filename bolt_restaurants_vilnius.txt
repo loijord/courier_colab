@@ -2015,7 +2015,7 @@ Circle K (Vingis),Circle K Vingis,"Geležinio Vilko g. 2A, Vilnius",1197,54.6709
 Circle K (Vingis),Circle K Vingis,"Geležinio Vilko g. 2A, Vilnius",1197,54.6709612,25.2366195,Sun 00:30,Sun 23:30
 Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Mon 09:00,Tue 07:00
 Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Tue 09:00,Wed 07:00
-Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Wed 09:00,Wed 07:00
+Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Wed 09:00,Thu 07:00
 Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Thu 09:00,Fri 07:00
 Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Fri 09:00,Sat 07:00
 Sofra Chicken & Fish (Kalvarijų g.),Sofra Chicken & Fish,"Kalvarijų g. 127-101, Vilnius",311,54.711774,25.286827,Sat 12:00,Sun 05:00
@@ -3402,657 +3402,661 @@ Peri Peri (Paupys),Peri Peri,Aukštaičių g.7,22,54.6785264,25.3025146,Thu 11:3
 Peri Peri (Paupys),Peri Peri,Aukštaičių g.7,22,54.6785264,25.3025146,Fri 11:30,Fri 21:15
 Peri Peri (Paupys),Peri Peri,Aukštaičių g.7,22,54.6785264,25.3025146,Sat 11:30,Sat 21:15
 Peri Peri (Paupys),Peri Peri,Aukštaičių g.7,22,54.6785264,25.3025146,Sun 11:30,Sun 21:15
-iLunch (Konstitucijos pr.),ilunch VC K29,"K29, Konstitucijos pr. 29, 08105 Vilnius, Lithuania",13,54.699315,25.2651587,Mon 11:00,Mon 15:00
-iLunch (Konstitucijos pr.),ilunch VC K29,"K29, Konstitucijos pr. 29, 08105 Vilnius, Lithuania",13,54.699315,25.2651587,Tue 11:00,Tue 15:00
-iLunch (Konstitucijos pr.),ilunch VC K29,"K29, Konstitucijos pr. 29, 08105 Vilnius, Lithuania",13,54.699315,25.2651587,Wed 11:00,Wed 15:00
-iLunch (Konstitucijos pr.),ilunch VC K29,"K29, Konstitucijos pr. 29, 08105 Vilnius, Lithuania",13,54.699315,25.2651587,Thu 11:00,Thu 15:00
-iLunch (Konstitucijos pr.),ilunch VC K29,"K29, Konstitucijos pr. 29, 08105 Vilnius, Lithuania",13,54.699315,25.2651587,Fri 11:00,Fri 15:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Sun 12:00,Sun 22:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Mon 11:30,Mon 23:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Tue 11:30,Tue 23:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Wed 11:30,Wed 23:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Thu 11:30,Fri 00:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Fri 11:30,Sat 00:00
-Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",271,54.678375,25.3032979,Sat 12:00,Sun 00:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Sun 10:00,Sun 22:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Mon 10:00,Mon 22:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Tue 10:00,Tue 22:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Wed 10:00,Wed 22:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Thu 10:00,Thu 23:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Fri 10:00,Sat 00:00
-Asian Fusion (Upės g.),Manami,"Upės g. 9, 09308 Vilnius, Lithuania",1413,54.6940292,25.2760085,Sat 10:00,Sun 00:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Sun 12:00,Sun 20:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Tue 11:00,Tue 20:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Wed 11:00,Wed 20:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Thu 11:00,Thu 20:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Fri 11:00,Fri 20:00
-EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, 07156 Vilnius, Lithuania",27,54.7209229,25.2456864,Sat 12:00,Sat 20:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Sun 15:00,Mon 03:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Mon 20:00,Tue 05:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Tue 20:00,Wed 05:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Wed 20:00,Wed 23:59
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Thu 00:00,Thu 05:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Thu 20:00,Fri 05:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Fri 20:00,Sat 05:00
-Saunch,Saunch,"Savanorių pr. 43A, 03130 Vilnius, Lithuania",54,54.67290490000001,25.24569919999999,Sat 20:00,Sun 05:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Sun 11:00,Sun 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Mon 11:00,Mon 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Tue 11:00,Tue 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Wed 11:00,Wed 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Thu 11:00,Thu 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Fri 11:00,Fri 21:00
-WOK - Heat & Eat,SUSHI SUSHI WOK,"Ukmergės g. 308, 06115 Vilnius, Lithuania",7,54.7401438,25.2245932,Sat 11:00,Sat 21:30
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Sun 10:00,Sun 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Mon 10:00,Mon 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Tue 10:00,Tue 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Wed 10:00,Wed 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Thu 10:00,Thu 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Fri 10:00,Fri 21:00
-Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",48,54.7000883,25.2572391,Sat 10:00,Sat 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Sun 10:00,Sun 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Mon 10:00,Mon 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Tue 10:00,Tue 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Wed 10:00,Wed 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Thu 10:00,Thu 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Fri 10:00,Fri 21:00
-Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",9,54.7030517,25.206992,Sat 10:00,Sat 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Sun 10:00,Sun 19:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Mon 10:00,Mon 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Tue 10:00,Tue 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Wed 10:00,Wed 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Thu 10:00,Thu 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Fri 10:00,Fri 21:00
-Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, 12001 Vilnius, Lithuania",7,54.7401475,25.22459319999999,Sat 10:00,Sat 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Sun 09:00,Sun 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Mon 09:00,Mon 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Tue 09:00,Tue 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Wed 09:00,Wed 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Thu 09:00,Thu 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Fri 09:00,Fri 21:00
-Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, 06264 Vilnius, Lithuania",15,54.7034432,25.2056448,Sat 09:00,Sat 21:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Sun 08:00,Sun 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Mon 08:00,Mon 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Tue 08:00,Tue 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Wed 08:00,Wed 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Thu 08:00,Thu 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Fri 08:00,Fri 20:00
-Gėlės,Pasaulio Gėlės,"Santaros g. 5, 08409 Vilnius, Lithuania",2,54.7570383,25.2771779,Sat 08:00,Sat 20:00
-Los Habaneros,Los Habaneros,"V. Gerulaičio g. 10, 08200 Vilnius, Lithuania",8,54.71644089999999,25.27784309999999,Mon 11:00,Mon 15:00
-Los Habaneros,Los Habaneros,"V. Gerulaičio g. 10, 08200 Vilnius, Lithuania",8,54.71644089999999,25.27784309999999,Tue 11:00,Tue 15:00
-Los Habaneros,Los Habaneros,"V. Gerulaičio g. 10, 08200 Vilnius, Lithuania",8,54.71644089999999,25.27784309999999,Wed 11:00,Wed 15:00
-Los Habaneros,Los Habaneros,"V. Gerulaičio g. 10, 08200 Vilnius, Lithuania",8,54.71644089999999,25.27784309999999,Thu 11:00,Thu 15:00
-Los Habaneros,Los Habaneros,"V. Gerulaičio g. 10, 08200 Vilnius, Lithuania",8,54.71644089999999,25.27784309999999,Fri 11:00,Fri 15:00
-Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A. Goštauto g. 13, 01108 Vilnius, Lithuania",775,54.69427889999999,25.26336659999999,Thu 00:00,Wed 23:59
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Sun 10:00,Sun 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Mon 10:00,Mon 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Tue 10:00,Tue 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Wed 10:00,Wed 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Thu 10:00,Thu 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Fri 10:00,Fri 22:00
-Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),"Pylimo g. 25, 01141 Vilnius, Lithuania",393,54.6779375,25.2793055,Sat 10:00,Sat 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Sun 11:00,Sun 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Mon 11:00,Mon 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Tue 11:00,Tue 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Wed 11:00,Wed 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Thu 11:00,Thu 22:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Fri 11:00,Fri 23:00
-Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, 01138 Vilnius, Lithuania",1042,54.6729454,25.2787002,Sat 11:00,Sat 23:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Sun 11:00,Sun 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Mon 11:00,Mon 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Tue 11:00,Tue 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Wed 11:00,Wed 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Thu 11:00,Thu 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Fri 11:00,Fri 22:00
-Restoranas Batoras,Batoras,"Srovės g. 21, 01206 Vilnius, Lithuania",328,54.6856462,25.3241583,Sat 11:00,Sat 22:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Sun 10:00,Sun 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Mon 10:00,Mon 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Tue 10:00,Tue 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Wed 10:00,Wed 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Thu 10:00,Thu 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Fri 10:00,Fri 21:00
-Nykštukas,Nykštukas,"Verkių g. 29, 09108 Vilnius, Lithuania",235,54.7133216,25.2947961,Sat 10:00,Sat 21:00
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Sun 11:00,Sun 22:30
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Mon 11:00,Mon 22:30
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Tue 11:00,Tue 22:30
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Wed 11:00,Wed 22:00
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Thu 11:00,Thu 22:30
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Fri 11:00,Fri 22:30
-Dingo Grill (Kareivių g),Dingo Grill,"Kareivių g. 14, 09109 Vilnius, Lithuania",1,54.71913099999999,25.29910599999999,Sat 11:00,Sat 22:30
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Mon 08:00,Mon 20:00
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Tue 08:00,Tue 20:00
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Wed 08:00,Wed 20:00
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Thu 08:00,Thu 20:00
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Fri 08:00,Fri 20:00
-Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, 09300 Vilnius, Lithuania",21,54.70049479999999,25.2695616,Sat 08:00,Sat 15:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Sun 11:00,Sun 23:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Mon 11:00,Mon 23:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Tue 11:00,Tue 23:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Wed 11:00,Wed 23:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Thu 11:00,Thu 23:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Fri 11:00,Sat 03:00
-Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10, 01402 Vilnius, Lithuania",844,54.68635310000001,25.2796079,Sat 11:00,Sun 03:00
-LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"J. Jasinskio g. 16A, 01112 Vilnius, Lithuania",41,54.68683240000001,25.2596321,Mon 11:00,Mon 15:00
-LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"J. Jasinskio g. 16A, 01112 Vilnius, Lithuania",41,54.68683240000001,25.2596321,Tue 11:00,Tue 15:00
-LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"J. Jasinskio g. 16A, 01112 Vilnius, Lithuania",41,54.68683240000001,25.2596321,Wed 11:00,Wed 15:00
-LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"J. Jasinskio g. 16A, 01112 Vilnius, Lithuania",41,54.68683240000001,25.2596321,Thu 11:00,Thu 15:00
-LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"J. Jasinskio g. 16A, 01112 Vilnius, Lithuania",41,54.68683240000001,25.2596321,Fri 11:00,Fri 15:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Sun 12:00,Sun 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Mon 12:00,Mon 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Tue 12:00,Tue 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Wed 12:00,Wed 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Thu 12:00,Thu 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Fri 12:00,Fri 21:00
-Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokiečių g. 9-30, 01130 Vilnius, Lithuania",56,54.6793079,25.2844338,Sat 12:00,Sat 21:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Sun 10:00,Sun 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Mon 10:00,Mon 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Tue 10:00,Tue 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Wed 10:00,Wed 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Thu 10:00,Thu 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Fri 10:00,Fri 22:00
-Pizzelle (Žirmūnų g.),Čili Pica,"Žirmūnų g. 2, 09214 Vilnius, Lithuania",505,54.69728849999999,25.2991046,Sat 10:00,Sat 22:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Sun 11:00,Sun 23:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Mon 11:00,Mon 23:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Tue 11:00,Tue 23:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Wed 11:00,Wed 23:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Thu 11:00,Thu 23:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Fri 11:00,Sat 00:00
-Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, 04129 Vilnius, Lithuania",76,54.6671932,25.2163987,Sat 11:00,Sun 00:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Sun 11:00,Sun 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Mon 11:00,Mon 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Tue 11:00,Tue 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Wed 11:00,Wed 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Thu 11:00,Thu 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Fri 11:00,Fri 23:00
-Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2a, 01120 Vilnius, Lithuania",659,54.6865116,25.2857671,Sat 11:00,Sat 23:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Sun 10:00,Sun 20:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Mon 11:00,Mon 22:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Tue 11:00,Tue 22:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Wed 11:00,Wed 22:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Thu 11:00,Thu 22:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Fri 11:00,Fri 22:00
-Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",19,54.6785264,25.3025146,Sat 10:00,Sat 22:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Sun 15:00,Mon 01:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Mon 16:00,Tue 01:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Tue 16:00,Wed 02:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Wed 16:00,Wed 23:59
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Thu 00:00,Thu 02:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Thu 16:00,Fri 03:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Fri 16:00,Sat 04:00
-Gringo,Gringo pub,"Vilniaus g. 31, 01402 Vilnius, Lithuania",1281,54.6842207,25.2792409,Sat 15:00,Sun 04:00
-Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1, 06319 Vilnius, Lithuania",667,54.73043099999999,25.239128,Thu 00:00,Wed 23:59
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Sun 10:00,Sun 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Mon 10:00,Mon 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Tue 10:00,Tue 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Wed 10:00,Wed 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Thu 10:00,Thu 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Fri 10:00,Fri 21:00
-Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, 07150 Vilnius, Lithuania",14,54.71026949999999,25.2631346,Sat 10:00,Sat 21:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Sun 13:00,Mon 05:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Mon 13:00,Tue 02:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Tue 13:00,Wed 02:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Wed 13:00,Wed 23:59
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Thu 00:00,Thu 02:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Thu 13:00,Fri 02:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Fri 14:00,Sat 05:00
-Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g., 01132 Vilnius, Lithuania",144,54.6798564,25.2789685,Sat 13:00,Sun 05:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Sun 12:00,Sun 22:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Mon 11:00,Mon 23:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Tue 11:00,Tue 23:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Wed 11:00,Wed 23:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Thu 11:00,Thu 23:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Fri 11:00,Fri 23:00
-Leleko,Leleko,"Gedimino pr. 49, 01109 Vilnius, Lithuania",614,54.6904932,25.2643391,Sat 12:00,Sat 23:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Sun 10:00,Sun 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Mon 10:00,Mon 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Tue 10:00,Tue 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Wed 10:00,Wed 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Thu 10:00,Thu 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Fri 10:00,Fri 22:00
-Candy POP (VCUP),Candy POP,"Upės g. 9, 09308 Vilnius, Lithuania",13,54.6939167,25.2762368,Sat 10:00,Sat 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Sun 11:00,Sun 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Mon 11:00,Mon 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Tue 11:00,Tue 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Wed 11:00,Wed 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Thu 11:00,Thu 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Fri 11:00,Fri 22:00
-Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių g. 75A, 07108 Vilnius, Lithuania",677,54.72649680000001,25.2459064,Sat 11:00,Sat 22:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Sun 11:00,Sun 23:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Mon 11:00,Mon 23:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Tue 11:00,Tue 23:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Wed 11:00,Wed 23:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Thu 11:00,Thu 23:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Fri 11:00,Sat 00:00
-Casa Della Pasta (Vokiečių g.),Casa Della Pasta,"Vokiečių g. 13, 01130 Vilnius, Lithuania",146,54.67998100000001,25.2837351,Sat 11:00,Sun 00:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Sun 11:00,Sun 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Mon 11:00,Mon 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Tue 11:00,Tue 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Wed 11:00,Wed 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Thu 11:00,Thu 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Fri 11:00,Fri 20:00
-El Barrio,El Barrio,"Gedimino pr. 9, 01105 Vilnius, Lithuania",19,54.68729339999999,25.2817636,Sat 11:00,Sat 20:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Sun 14:00,Mon 01:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Tue 18:00,Wed 01:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Wed 18:00,Wed 23:59
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Thu 00:00,Thu 01:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Thu 18:00,Fri 02:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Fri 17:00,Sat 04:00
-Uncle Sam's American pub,Uncle Sam's American pub,"Islandijos g. 6, 01402 Vilnius, Lithuania",2698,54.6837764,25.2790048,Sat 14:00,Sun 04:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Sun 11:00,Mon 00:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Mon 11:00,Tue 00:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Tue 11:00,Wed 00:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Wed 11:00,Wed 23:59
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Thu 11:00,Fri 00:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Fri 11:00,Sat 01:00
-Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, 01128 Vilnius, Lithuania",2599,54.68027399999999,25.2883142,Sat 11:00,Sun 01:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Sun 11:00,Sun 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Mon 11:00,Mon 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Tue 11:00,Tue 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Wed 11:00,Wed 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Thu 11:00,Thu 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Fri 11:00,Fri 22:00
-Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, 12114 Vilnius, Lithuania",264,54.73990620000001,25.2203586,Sat 11:00,Sat 22:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Sun 11:00,Sun 20:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Mon 11:00,Mon 20:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Tue 11:00,Tue 20:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Wed 11:00,Wed 20:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Thu 11:00,Thu 20:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Fri 11:00,Fri 21:00
-LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7-10, 01132 Vilnius, Lithuania",262,54.67994059999999,25.27952509999999,Sat 11:00,Sat 21:00
-Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2, 07109 Vilnius, Lithuania",107,54.72515719999999,25.2437403,Tue 11:00,Tue 20:00
-Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2, 07109 Vilnius, Lithuania",107,54.72515719999999,25.2437403,Wed 11:00,Wed 20:00
-Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2, 07109 Vilnius, Lithuania",107,54.72515719999999,25.2437403,Thu 11:00,Thu 20:00
-Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2, 07109 Vilnius, Lithuania",107,54.72515719999999,25.2437403,Fri 11:00,Fri 21:00
-Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2, 07109 Vilnius, Lithuania",107,54.72515719999999,25.2437403,Sat 11:00,Sat 20:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Sun 12:00,Sun 19:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Tue 11:00,Tue 19:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Wed 11:00,Wed 19:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Thu 11:00,Thu 19:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Fri 11:00,Fri 19:00
-Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, 02182 Vilnius, Lithuania",188,54.65541229999999,25.2777721,Sat 12:00,Sat 19:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Sun 08:00,Sun 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Mon 08:00,Mon 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Tue 08:00,Tue 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Wed 08:00,Wed 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Thu 08:00,Thu 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Fri 08:00,Fri 22:00
-Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, 08217 Vilnius, Lithuania",42,54.71176089999999,25.2655654,Sat 08:00,Sat 22:00
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Sun 09:00,Sun 15:00
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Mon 07:00,Mon 18:30
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Tue 07:00,Tue 18:30
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Wed 07:00,Wed 18:30
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Thu 07:00,Thu 18:30
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Fri 07:00,Fri 18:30
-Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, 03203 Vilnius, Lithuania",63,54.67141960000001,25.2621621,Sat 09:00,Sat 16:00
-Veggie Hut,Jammi,"Saulėtekio al. 17, 10221 Vilnius, Lithuania",230,54.7244634,25.3416699,Thu 00:00,Wed 23:59
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Sun 11:00,Sun 20:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Mon 11:00,Mon 20:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Tue 11:00,Tue 20:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Wed 11:00,Wed 20:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Thu 11:00,Thu 21:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Fri 11:00,Fri 21:45
-Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Sat 11:00,Sat 21:45
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Sun 08:00,Sun 21:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Mon 07:00,Mon 22:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Tue 07:00,Tue 22:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Wed 07:00,Wed 22:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Thu 07:00,Thu 22:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Fri 07:00,Fri 23:00
-Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, 11342 Vilnius, Lithuania",181,54.677039,25.3079994,Sat 08:00,Sat 23:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Sun 09:00,Sun 17:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Mon 09:00,Mon 20:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Tue 09:00,Tue 20:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Wed 09:00,Wed 20:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Thu 09:00,Thu 20:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Fri 09:00,Fri 20:00
-Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",120,54.72813759999999,25.2409058,Sat 09:00,Sat 20:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Sun 10:00,Sun 22:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Mon 10:00,Mon 22:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Tue 10:00,Tue 22:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Wed 10:00,Wed 22:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Thu 10:00,Thu 23:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Fri 10:00,Sat 00:00
-Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, 09308 Vilnius, Lithuania",698,54.6938987,25.2756597,Sat 10:00,Sun 00:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Sun 10:00,Sun 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Mon 09:00,Mon 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Tue 09:00,Tue 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Wed 09:00,Wed 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Thu 09:00,Thu 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Fri 09:00,Fri 22:00
-Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kl. 8A, 14302 kaimas, Lithuania",2088,54.7696456,25.1946277,Sat 09:00,Sat 22:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Sun 12:00,Sun 23:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Mon 12:00,Mon 23:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Tue 12:00,Tue 23:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Wed 12:00,Wed 23:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Thu 12:00,Thu 23:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Fri 12:00,Sat 00:00
-Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, 03108 Vilnius, Lithuania",486,54.6811835,25.2722748,Sat 12:00,Sun 00:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Sun 10:49,Sun 20:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Mon 11:00,Mon 21:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Tue 11:00,Tue 21:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Wed 11:00,Wed 21:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Thu 11:00,Thu 22:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Fri 11:00,Fri 22:00
-BOLA (Paupys),Bola,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",44,54.6784695,25.3032575,Sat 10:00,Sat 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Sun 09:00,Sun 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Mon 08:00,Mon 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Tue 08:00,Tue 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Wed 08:00,Wed 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Thu 08:00,Thu 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Fri 08:00,Fri 22:00
-Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),"1 vieta: Pilies ir Švarco g. sankirta (Prancūzparkis), 2 vieta: Subačiaus apžvalgos aikštelė, 3 vieta:, Aukštaičių g. 16, 11350 Vilnius, Lithuania",379,54.67735649999999,25.3011821,Sat 09:00,Sat 22:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Sun 11:00,Sun 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Mon 10:00,Mon 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Tue 10:00,Tue 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Wed 10:00,Wed 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Thu 10:00,Thu 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Fri 10:00,Fri 19:00
-Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9, 01105 Vilnius, Lithuania",8,54.6868473,25.28190889999999,Sat 10:00,Sat 19:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Sun 12:00,Sun 23:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Mon 11:00,Mon 23:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Tue 11:00,Tue 23:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Wed 11:00,Wed 23:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Thu 11:00,Thu 23:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Fri 11:00,Sat 01:00
-Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, 01402 Vilnius, Lithuania",4515,54.6831599,25.2788433,Sat 12:00,Sun 01:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Sun 10:00,Sun 22:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Mon 10:00,Mon 22:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Tue 10:00,Tue 22:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Wed 10:00,Wed 22:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Thu 10:00,Thu 22:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Fri 10:00,Fri 23:00
-Grill London (CUP),Grill London,"Upės g. 9, 3 aukštas, 09308 Vilnius, Lithuania",1551,54.6935836,25.276219,Sat 10:00,Sat 23:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Sun 11:00,Sun 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Mon 11:00,Mon 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Tue 11:00,Tue 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Wed 11:00,Wed 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Thu 11:00,Thu 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Fri 11:00,Fri 22:00
-Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, 06231 Vilnius, Lithuania",307,54.7032249,25.2056726,Sat 11:00,Sat 22:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Sun 10:00,Sun 23:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Mon 10:00,Mon 23:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Tue 10:00,Tue 23:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Wed 10:00,Wed 23:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Thu 10:00,Fri 00:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Fri 10:00,Sat 00:00
-Pizzelle (Vingis),Čili Pizza,"KT, Forum Cinemas Vingis, Savanorių pr. 7, 03116 Vilnius, Lithuania",764,54.6778603,25.2553013,Sat 10:00,Sun 00:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Sun 10:00,Sun 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Mon 10:00,Mon 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Tue 10:00,Tue 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Wed 10:00,Wed 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Thu 10:00,Thu 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Fri 10:00,Fri 22:00
-Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo gatvė, 18, 08243 Vilnius, Lithuania",1742,54.7138697,25.27469649999999,Sat 10:00,Sat 22:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Sun 10:00,Sun 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Mon 10:00,Mon 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Tue 10:00,Tue 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Wed 10:00,Wed 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Thu 10:00,Thu 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Fri 10:00,Fri 20:00
-Candy POP (Ogmia),Candy Pop,"Verkių g. 31B, 09108 Vilnius, Lithuania",268,54.71490559999999,25.2967971,Sat 10:00,Sat 20:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Sun 10:00,Sun 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Mon 10:00,Mon 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Tue 10:00,Tue 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Wed 10:00,Wed 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Thu 10:00,Thu 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Fri 10:00,Fri 22:00
-Grill London (Ozas),Grill London,"Ozo g. 18, 08243 Vilnius, Lithuania",47,54.7148118,25.27513059999999,Sat 10:00,Sat 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Sun 10:00,Sun 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Mon 10:00,Mon 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Tue 10:00,Tue 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Wed 10:00,Wed 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Thu 10:00,Thu 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Fri 10:00,Fri 22:00
-Fon Pizza,Fon Pizza,"Eišiškių pl. 47, 02184 Vilnius, Lithuania",20,54.6428688,25.2618998,Sat 10:00,Sat 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Sun 11:00,Sun 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Mon 11:00,Mon 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Tue 11:00,Tue 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Wed 11:00,Wed 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Thu 11:00,Thu 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Fri 11:00,Fri 22:00
-Aloha restoranas,Aloha,"Ozo g. 14C, 08200 Vilnius, Lithuania",537,54.7160661,25.2776018,Sat 11:00,Sat 22:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Sun 11:00,Sun 20:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Mon 10:00,Mon 21:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Tue 10:00,Tue 21:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Wed 10:00,Wed 21:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Thu 10:00,Thu 21:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Fri 10:00,Fri 21:00
-Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g., 06128 Vilnius, Lithuania",555,54.72665019999999,25.232851,Sat 10:00,Sat 21:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Sun 10:00,Mon 00:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Mon 10:00,Tue 00:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Tue 10:00,Wed 00:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Wed 10:00,Wed 23:59
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Thu 10:00,Fri 00:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Fri 10:00,Sat 00:00
-Express Pizza (Dvarčionys),Čili Take Away,"Kalvarijų g. 59, 09318 Vilnius, Lithuania",129,54.6992673,25.2830038,Sat 10:00,Sun 00:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Sun 09:00,Sun 19:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Mon 07:00,Mon 20:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Tue 07:00,Tue 20:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Wed 07:00,Wed 20:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Thu 07:00,Thu 20:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Fri 07:00,Fri 20:00
-Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko g. 98, 03202 Vilnius, Lithuania",13,54.66798480000001,25.2556009,Sat 09:00,Sat 19:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Sun 11:00,Sun 20:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Mon 11:00,Mon 22:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Tue 11:00,Tue 22:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Wed 11:00,Wed 22:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Thu 11:00,Thu 22:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Fri 11:00,Fri 22:00
-Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, 01103 Vilnius, Lithuania",3429,54.68659049999999,25.2832258,Sat 11:00,Sat 22:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Sun 11:00,Sun 20:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Mon 11:00,Mon 21:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Tue 11:00,Tue 21:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Wed 11:00,Wed 21:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Thu 11:00,Thu 21:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Fri 11:00,Fri 22:00
-BOLA (Ogmia),Bola,"Verkių g. 29C, 08223 Vilnius, Lithuania",46,54.71344209999999,25.2966971,Sat 11:00,Sat 22:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Sun 10:00,Sun 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Mon 10:00,Mon 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Tue 10:00,Tue 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Wed 10:00,Wed 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Thu 10:00,Thu 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Fri 10:00,Fri 21:00
-EatSushi,Eatsushi LT,"Konstitucijos pr. 7A, 09307 Vilnius, Lithuania",18,54.6962885,25.2762972,Sat 10:00,Sat 21:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Sun 11:00,Sun 22:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Mon 11:00,Mon 22:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Tue 11:00,Tue 22:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Wed 11:00,Wed 22:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Thu 11:00,Thu 22:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Fri 11:00,Sat 00:00
-Home of Ice Cream (Burger Street),Burger street,"Ukmergės g. 259a, 07100 Vilnius, Lithuania",476,54.7278247,25.2409832,Sat 11:00,Sat 22:00
-Circle k (Karoliniškės),Circle K Karoliniškės,"A. P. Kavoliuko g. 32A, 04329 Vilnius, Lithuania",672,54.69529499999999,25.2186363,Thu 00:00,Wed 23:59
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Sun 10:00,Sun 21:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Mon 10:00,Mon 22:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Tue 10:00,Tue 22:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Wed 10:00,Wed 22:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Thu 10:00,Thu 22:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Fri 10:00,Fri 22:00
-Candy POP (Ozas),Candy POP,"Ozo g. 18, 08243 Vilnius, Lithuania",23,54.7139669,25.2726214,Sat 10:00,Sat 22:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Sun 10:00,Sun 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Mon 10:00,Mon 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Tue 10:00,Tue 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Wed 10:00,Wed 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Thu 10:00,Thu 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Fri 10:00,Fri 20:00
-DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės kl. 27, 14196 Avižieniai, Lithuania",85,54.7753522,25.1939362,Sat 10:00,Sat 20:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Sun 11:30,Sun 19:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Mon 11:30,Mon 18:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Tue 11:30,Tue 19:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Wed 11:30,Wed 19:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Thu 11:30,Thu 19:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Fri 11:30,Fri 22:00
-Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, 14168 Salotė, Lithuania",741,54.69570340000001,25.1812786,Sat 11:30,Sat 22:00
-Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, 02154 Vilnius, Lithuania",316,54.6585353,25.2663467,Thu 00:00,Wed 23:59
-Pietūs (Jasinskio g. 16),Pietūs,"J. Jasinskio g. 16, 01112 Vilnius, Lithuania",196,54.6878025,25.2610408,Mon 11:00,Mon 15:00
-Pietūs (Jasinskio g. 16),Pietūs,"J. Jasinskio g. 16, 01112 Vilnius, Lithuania",196,54.6878025,25.2610408,Tue 11:00,Tue 15:00
-Pietūs (Jasinskio g. 16),Pietūs,"J. Jasinskio g. 16, 01112 Vilnius, Lithuania",196,54.6878025,25.2610408,Wed 11:00,Wed 15:00
-Pietūs (Jasinskio g. 16),Pietūs,"J. Jasinskio g. 16, 01112 Vilnius, Lithuania",196,54.6878025,25.2610408,Thu 11:00,Thu 15:00
-Pietūs (Jasinskio g. 16),Pietūs,"J. Jasinskio g. 16, 01112 Vilnius, Lithuania",196,54.6878025,25.2610408,Fri 11:00,Fri 15:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Sun 08:00,Sun 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Mon 08:00,Mon 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Tue 08:00,Tue 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Wed 08:00,Wed 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Thu 08:00,Thu 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Fri 08:00,Fri 22:00
-Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, 12107 Vilnius, Lithuania",4932,54.740177,25.2285291,Sat 08:00,Sat 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Sun 10:00,Sun 21:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Mon 10:00,Mon 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Tue 10:00,Tue 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Wed 10:00,Wed 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Thu 10:00,Thu 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Fri 10:00,Fri 22:00
-Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, 08243 Vilnius, Lithuania",205,54.71431639999999,25.2746373,Sat 10:00,Sat 22:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Sun 10:00,Sun 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Mon 10:00,Mon 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Tue 10:00,Tue 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Wed 10:00,Wed 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Thu 10:00,Thu 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Fri 10:00,Fri 21:00
-Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",41,54.7002762,25.256868,Sat 10:00,Sat 21:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Sun 12:00,Sun 23:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Mon 11:00,Mon 23:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Tue 11:00,Tue 23:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Wed 11:00,Wed 23:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Thu 11:00,Fri 00:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Fri 11:00,Sat 01:00
-PUBLiC,Public,"Kalvarijų g. 125, 08206 Vilnius, Lithuania",622,54.7103602,25.28714919999999,Sat 12:00,Sun 01:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Sun 12:00,Sun 21:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Mon 11:00,Mon 22:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Tue 11:00,Tue 22:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Wed 11:00,Wed 22:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Thu 11:00,Thu 22:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Fri 11:00,Fri 22:00
-La Pasta Makaronų Namai,La Pasta,"Verkių g. 29A, 09108 Vilnius, Lithuania",712,54.71308800000001,25.2952816,Sat 11:00,Sat 22:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Sun 10:00,Sun 18:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Mon 10:00,Mon 20:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Tue 10:00,Tue 20:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Wed 10:00,Wed 20:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Thu 10:00,Thu 20:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Fri 10:00,Fri 20:00
-MEZE (Ogmios),Meze restoranas,"Verkių g. 29J, 09108 Vilnius, Lithuania",549,54.7125728,25.2975182,Sat 10:00,Sat 20:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Sun 00:00,Mon 00:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Mon 11:00,Mon 23:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Tue 11:00,Tue 23:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Wed 11:00,Wed 23:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Thu 11:00,Thu 23:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Fri 11:00,Sat 00:00
-Maracas Mexican Cocina,Meksika,"Algirdo g. 2, 03220 Vilnius, Lithuania",947,54.6809014,25.2699297,Sat 11:00,Sat 23:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Sun 10:00,Sun 20:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Mon 11:00,Mon 22:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Tue 11:00,Tue 22:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Wed 11:00,Wed 22:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Thu 11:00,Thu 22:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Fri 11:00,Fri 22:00
-Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",53,54.6785362,25.3024761,Sat 10:00,Sat 22:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Sun 11:00,Sun 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Mon 11:00,Mon 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Tue 11:00,Tue 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Wed 11:00,Wed 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Thu 11:00,Thu 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Fri 11:00,Fri 19:00
-Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, 03218 Vilnius, Lithuania",133,54.6754372,25.2719587,Sat 11:00,Sat 19:00
-Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio g. 88, 09303 Vilnius, Lithuania",3,54.70359149999999,25.2796199,Mon 08:00,Mon 16:00
-Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio g. 88, 09303 Vilnius, Lithuania",3,54.70359149999999,25.2796199,Tue 08:00,Tue 16:00
-Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio g. 88, 09303 Vilnius, Lithuania",3,54.70359149999999,25.2796199,Wed 08:00,Wed 16:00
-Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio g. 88, 09303 Vilnius, Lithuania",3,54.70359149999999,25.2796199,Thu 08:00,Thu 16:00
-Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio g. 88, 09303 Vilnius, Lithuania",3,54.70359149999999,25.2796199,Fri 08:00,Fri 16:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Sun 10:00,Sun 22:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Mon 08:00,Mon 22:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Tue 08:00,Tue 22:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Wed 08:00,Wed 22:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Thu 08:00,Thu 23:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Fri 08:00,Fri 23:00
-St. Valentino,St. Valentino,"Vilniaus g. 47, 01119 Vilnius, Lithuania",603,54.6807837,25.2820584,Sat 10:00,Sat 23:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Sun 11:00,Sun 18:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Mon 11:00,Mon 20:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Tue 11:00,Tue 20:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Wed 11:00,Wed 20:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Thu 11:00,Thu 20:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Fri 11:00,Fri 20:00
-IT'S corndog,IT'S Corndog,"Gedimino pr. 9, 01103 Vilnius, Lithuania",32,54.6872998,25.2817166,Sat 11:00,Sat 20:00
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Sun 11:00,Sun 20:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Mon 11:00,Mon 20:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Tue 11:00,Tue 20:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Wed 11:00,Wed 20:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Thu 11:00,Thu 21:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Fri 11:00,Fri 21:45
-Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, 07157 Vilnius, Lithuania",5,54.7155242,25.2454198,Sat 11:00,Sat 21:45
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Sun 10:00,Sun 20:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Mon 11:00,Mon 22:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Tue 11:00,Tue 22:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Wed 11:00,Wed 22:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Thu 11:00,Thu 22:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Fri 11:00,Fri 22:00
-Burna House,Burna House,"Aukštaičių g. 7, 11341 Vilnius, Lithuania",97,54.6784887,25.3031877,Sat 10:00,Sat 22:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Mon 10:00,Mon 20:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Tue 10:00,Tue 20:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Wed 10:00,Wed 20:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Thu 10:00,Thu 20:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Fri 10:00,Fri 20:00
-Papa House,Papa House Grill & Lounge,"S. Krasausko g. 1, 25125 Vilnius, Lithuania",159,54.6447585,25.0905591,Sat 10:00,Sat 20:00
-Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 222, 07157 Vilnius, Lithuania",530,54.7165212,25.2452781,Thu 00:00,Wed 23:59
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Sun 10:00,Sun 17:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Mon 10:00,Mon 20:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Tue 10:00,Tue 20:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Wed 10:00,Wed 20:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Thu 10:00,Thu 20:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Fri 10:00,Fri 20:00
-Steak Supply,STEAK SUPPLY,"Linkmenų g. 22, 08217 Vilnius, Lithuania",16,54.7050309,25.2680058,Sat 10:00,Sat 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Sun 09:00,Sun 17:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Mon 09:00,Mon 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Tue 09:00,Tue 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Wed 09:00,Wed 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Thu 09:00,Thu 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Fri 09:00,Fri 20:00
-Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės g. 259A, 07100 Vilnius, Lithuania",2124,54.7281626,25.2410364,Sat 09:00,Sat 20:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Sun 08:00,Sun 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Mon 07:00,Mon 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Tue 07:00,Tue 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Wed 07:00,Wed 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Thu 07:00,Thu 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Fri 07:00,Fri 21:00
-Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio g. 86, 10204 Vilnius, Lithuania",188,54.712815,25.3149091,Sat 08:00,Sat 21:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Sun 10:00,Sun 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Mon 10:00,Mon 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Tue 10:00,Tue 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Wed 10:00,Wed 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Thu 10:00,Thu 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Fri 10:00,Fri 20:00
-Piestro (Ogmios),Piestro,"Verkių g. 31C, 09108 Vilnius, Lithuania",40,54.714185,25.2969376,Sat 10:00,Sat 20:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Sun 10:00,Sun 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Mon 10:00,Mon 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Tue 10:00,Tue 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Wed 10:00,Wed 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Thu 10:00,Thu 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Fri 10:00,Fri 22:00
-Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, 06290 Vilnius, Lithuania",5,54.7092245,25.1848852,Sat 10:00,Sat 22:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Sun 10:00,Sun 20:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Mon 10:00,Mon 21:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Tue 10:00,Tue 21:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Wed 10:00,Wed 21:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Thu 10:00,Thu 21:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Fri 10:00,Fri 21:00
-Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3, 02188 Vilnius, Lithuania",7935,54.65247029999999,25.2772273,Sat 10:00,Sat 21:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Sun 11:00,Sun 22:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Mon 11:00,Mon 22:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Tue 11:00,Tue 22:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Wed 11:00,Wed 22:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Thu 11:00,Thu 22:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Fri 11:00,Fri 23:00
-Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, 08105 Vilnius, Lithuania",797,54.699865,25.2584308,Sat 11:00,Sat 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Sun 12:00,Sun 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Mon 12:00,Mon 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Tue 12:00,Tue 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Wed 12:00,Wed 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Thu 12:00,Thu 23:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Fri 12:00,Sat 00:00
-Balzac,Balzac,"Savičiaus g. 7, 01127 Vilnius, Lithuania",631,54.67914260000001,25.2890453,Sat 12:00,Sun 00:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Sun 08:00,Sun 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Mon 07:00,Mon 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Tue 07:00,Tue 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Wed 07:00,Wed 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Thu 07:00,Thu 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Fri 07:00,Fri 21:00
-Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, 10325 Vilnius, Lithuania",93,54.70528119999999,25.3110814,Sat 08:00,Sat 21:00
+iLunch (Konstitucijos pr.),ilunch VC K29,"Konstitucijos pr. 29, Vilnius",13,54.699315,25.2651587,Mon 11:00,Mon 15:00
+iLunch (Konstitucijos pr.),ilunch VC K29,"Konstitucijos pr. 29, Vilnius",13,54.699315,25.2651587,Tue 11:00,Tue 15:00
+iLunch (Konstitucijos pr.),ilunch VC K29,"Konstitucijos pr. 29, Vilnius",13,54.699315,25.2651587,Wed 11:00,Wed 15:00
+iLunch (Konstitucijos pr.),ilunch VC K29,"Konstitucijos pr. 29, Vilnius",13,54.699315,25.2651587,Thu 11:00,Thu 15:00
+iLunch (Konstitucijos pr.),ilunch VC K29,"Konstitucijos pr. 29, Vilnius",13,54.699315,25.2651587,Fri 11:00,Fri 15:00
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Mon 11:30,Mon 20:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Tue 11:30,Tue 20:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Wed 12:00,Wed 20:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Thu 11:30,Thu 20:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Fri 11:30,Fri 21:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Sat 12:00,Sat 21:45
+Piano Piano (Paupys),Piano Piano Paupys,"Aukštaičių g. 7, Vilnius",271,54.678375,25.3032979,Sun 12:00,Sun 20:45
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Mon 11:00,Mon 21:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Tue 11:00,Tue 21:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Wed 11:00,Wed 21:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Thu 11:00,Thu 22:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Fri 11:00,Fri 22:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Sat 11:00,Sat 22:30
+Asian Fusion (Upės g.),Manami,"Upės g. 9, Vilnius",1413,54.6940292,25.2760085,Sun 11:00,Sun 21:30
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Tue 11:00,Tue 14:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Tue 15:00,Tue 20:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Wed 11:00,Wed 14:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Wed 15:00,Wed 20:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Thu 11:00,Thu 14:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Thu 15:00,Thu 20:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Fri 11:00,Fri 20:30
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Sat 12:00,Sat 20:00
+EAT bowl&sushi shop,Eat.bowl&sushi shop,"Ukmergės g. 233, Vilnius",27,54.7209229,25.2456864,Sun 12:00,Sun 20:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Mon 20:00,Tue 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Tue 20:00,Wed 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Wed 20:00,Thu 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Thu 20:00,Fri 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Fri 20:00,Sat 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Sat 20:00,Sun 02:00
+Saunch,Saunch,"Savanoriu pr 43A, Vilnius",54,54.67290490000001,25.24569919999999,Sun 15:00,Mon 02:00
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Mon 10:00,Mon 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Tue 10:00,Tue 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Wed 10:00,Wed 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Thu 10:00,Thu 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Fri 10:00,Fri 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Sat 10:00,Sat 20:45
+Zatar Bistro (Panorama),Zatar,"Saltoniškių g. 9, Vilnius",48,54.7000883,25.2572391,Sun 10:00,Sun 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Mon 10:00,Mon 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Tue 10:00,Tue 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Wed 10:00,Wed 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Thu 10:00,Thu 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Fri 10:00,Fri 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Sat 10:00,Sat 20:45
+Bella Toscana (Vilnius Outlet),Bella Toscana,"Vytauto Pociūno g. 8, Vilnius",9,54.7030517,25.206992,Sun 10:00,Sun 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Mon 10:00,Mon 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Tue 10:00,Tue 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Wed 10:00,Wed 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Thu 10:00,Thu 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Fri 10:00,Fri 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Sat 10:00,Sat 20:45
+Senoji kibininė (Domus Pro),Senoji Kibininė,"Ukmergės g. 308, Vilnius",7,54.7401475,25.22459319999999,Sun 10:00,Sun 18:30
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Mon 09:00,Mon 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Tue 09:00,Tue 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Wed 09:00,Wed 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Thu 09:00,Thu 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Fri 09:00,Fri 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Sat 09:00,Sat 20:45
+Caffeine (Vilnius Outlet),Caffeine,"Vytauto Pociūno g. 8, Vilnius",15,54.7034432,25.2056448,Sun 09:00,Sun 20:45
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Mon 09:00,Mon 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Tue 09:00,Tue 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Wed 09:00,Wed 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Thu 09:00,Thu 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Fri 09:00,Fri 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Sat 09:00,Sat 20:00
+Gėlės,Pasaulio Gėlės,"Lakūnų g. 51, Vilnius",2,54.714185,25.304873,Sun 09:00,Sun 20:00
+Los Habaneros,Los Habaneros,V. Gerulaičio g. 10,8,54.7164409,25.2778431,Mon 11:00,Mon 15:00
+Los Habaneros,Los Habaneros,V. Gerulaičio g. 10,8,54.7164409,25.2778431,Tue 11:00,Tue 15:00
+Los Habaneros,Los Habaneros,V. Gerulaičio g. 10,8,54.7164409,25.2778431,Wed 11:00,Wed 15:00
+Los Habaneros,Los Habaneros,V. Gerulaičio g. 10,8,54.7164409,25.2778431,Thu 11:00,Thu 15:00
+Los Habaneros,Los Habaneros,V. Gerulaičio g. 10,8,54.7164409,25.2778431,Fri 11:00,Fri 15:00
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Mon 00:30,Mon 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Tue 00:30,Tue 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Wed 00:30,Wed 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Thu 00:30,Thu 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Fri 00:30,Fri 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Sat 00:30,Sat 23:30
+Circle K (Šalia Parlamento),Circle K Šalia Parlamento,"A.Goštauto g. 13, Vilnius",775,54.6942789,25.2633666,Sun 00:30,Sun 23:30
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Mon 10:45,Mon 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Tue 10:45,Tue 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Wed 10:45,Wed 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Thu 10:45,Thu 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Fri 10:45,Fri 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Sat 10:45,Sat 22:00
+Habibi Oriental Food,Habibi Oriental Food Falafel and Hummus (Elite Shawarma),Pylimo g. 25,393,54.6779375,25.2793055,Sun 10:45,Sun 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Mon 10:00,Mon 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Tue 10:00,Tue 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Wed 10:00,Wed 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Thu 10:00,Thu 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Fri 10:00,Fri 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Sat 10:00,Sat 22:00
+Ararat (Kauno g.),Ararat Restaurant,"Kauno g. 3A, Vilnius",1042,54.6729454,25.2787002,Sun 10:00,Sun 22:00
+Restoranas Batoras,Batoras,"Srovės 21, Vilnius",328,54.6856462,25.3241583,Mon 11:00,Mon 19:00
+Restoranas Batoras,Batoras,"Srovės 21, Vilnius",328,54.6856462,25.3241583,Tue 11:00,Tue 19:00
+Restoranas Batoras,Batoras,"Srovės 21, Vilnius",328,54.6856462,25.3241583,Wed 11:00,Wed 19:00
+Restoranas Batoras,Batoras,"Srovės 21, Vilnius",328,54.6856462,25.3241583,Thu 11:00,Thu 19:00
+Restoranas Batoras,Batoras,"Srovės 21, Vilnius",328,54.6856462,25.3241583,Fri 11:00,Fri 19:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Mon 10:00,Mon 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Tue 10:00,Tue 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Wed 10:00,Wed 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Thu 10:00,Thu 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Fri 10:00,Fri 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Sat 10:00,Sat 21:00
+Nykštukas,Nykštukas,"Verkių g. 27, Vilnius",235,54.7133216,25.2947961,Sun 10:00,Sun 21:00
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Mon 11:00,Mon 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Tue 11:00,Tue 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Wed 11:00,Wed 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Thu 11:00,Thu 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Fri 11:00,Fri 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Sat 11:00,Sat 22:30
+Dingo Grill (Kareivių g.),Dingo Grill,Kareivių g. 14,1,54.719131,25.299106,Sun 11:00,Sun 22:30
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Mon 08:00,Mon 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Tue 08:00,Tue 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Wed 08:00,Wed 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Thu 08:00,Thu 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Fri 08:00,Fri 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Sat 08:00,Sat 20:00
+Peliukas Flowers Shop,Peliukas Flower Shop,"Linkmenų g. 6, Vilnius",21,54.7004948,25.2695616,Sun 08:00,Sun 17:00
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Mon 11:00,Mon 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Tue 11:00,Tue 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Wed 11:00,Wed 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Thu 11:00,Thu 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Fri 11:00,Fri 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Sat 11:00,Sat 22:15
+Asian Fusion (Vilniaus g.),Manami,"Vilniaus g. 10/Gedimino pr. 16, Vilnius",844,54.6863531,25.2796079,Sun 11:00,Sun 22:15
+LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"Jasinskio g. 16a, Vilnius",41,54.6868324,25.2596321,Mon 11:00,Mon 15:00
+LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"Jasinskio g. 16a, Vilnius",41,54.6868324,25.2596321,Tue 11:00,Tue 15:00
+LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"Jasinskio g. 16a, Vilnius",41,54.6868324,25.2596321,Wed 11:00,Wed 15:00
+LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"Jasinskio g. 16a, Vilnius",41,54.6868324,25.2596321,Thu 11:00,Thu 15:00
+LIVIN restoranas (J. Jasinskio g.),LIVIN restoranas,"Jasinskio g. 16a, Vilnius",41,54.6868324,25.2596321,Fri 11:00,Fri 15:00
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Mon 12:00,Mon 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Tue 12:00,Tue 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Wed 12:00,Wed 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Thu 12:00,Thu 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Fri 12:00,Fri 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Sat 12:00,Sat 20:45
+Min Cha Bubble Tea (Vokiečių g.),MIN CHA,"Vokieciu g.9-30,Vilnius",56,54.6793079,25.2844338,Sun 12:00,Sun 20:45
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Mon 11:00,Mon 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Tue 11:00,Tue 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Wed 11:00,Wed 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Thu 11:00,Thu 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Fri 11:00,Fri 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Sat 11:00,Sat 22:00
+Pizzamax (Šiltnamių g.),Pizza Max,"Šiltnamių g. 21, Vilnius",76,54.6671932,25.2163987,Sun 11:00,Sun 22:00
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Mon 11:00,Mon 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Tue 11:00,Tue 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Wed 11:00,Wed 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Thu 11:00,Thu 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Fri 11:00,Fri 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Sat 11:00,Sat 21:45
+Klaipėdos senamiestis,Klaipėda Old Town,"Tilto g. 2A, Vilnius",659,54.6865116,25.2857671,Sun 11:00,Sun 21:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Mon 11:00,Mon 20:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Tue 11:00,Tue 20:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Wed 11:00,Wed 20:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Thu 11:00,Thu 21:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Fri 11:00,Fri 21:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Sat 10:00,Sat 21:45
+Sugamour (Paupys),Sugamour,"Aukštaičių g. 7, Vilnius",19,54.6785264,25.3025146,Sun 10:00,Sun 19:45
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Mon 16:05,Mon 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Tue 16:05,Tue 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Wed 16:05,Wed 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Thu 16:05,Thu 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Fri 16:05,Fri 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Sat 15:05,Sat 22:30
+Gringo,Gringo pub,"Vilniaus g. 31, Vilnius",1281,54.6842207,25.2792409,Sun 15:05,Sun 22:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Mon 00:30,Mon 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Tue 00:30,Tue 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Wed 00:30,Wed 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Thu 00:30,Thu 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Fri 00:30,Fri 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Sat 00:30,Sat 23:30
+Circle k (Ukmergės),Circle K Ukmergės,"P. Žadeikos g. 1A, Vilnius",667,54.730595,25.239,Sun 00:30,Sun 23:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Mon 10:00,Mon 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Tue 10:00,Tue 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Wed 10:00,Wed 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Thu 10:00,Thu 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Fri 10:00,Fri 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Sat 10:00,Sat 20:30
+Candy POP (Akropolis Vilnius),Candy POP,"Ozo g. 25, Vilnius",14,54.7102695,25.2631346,Sun 10:00,Sun 20:30
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Mon 11:00,Tue 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Tue 11:00,Wed 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Wed 11:00,Thu 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Thu 11:00,Fri 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Fri 11:00,Sat 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Sat 12:00,Sun 00:45
+Memo Kebabinė (Trakų g.),Memo Kebabine,"Trakų g. 5, Vilnius, Lithuania",144,54.679866,25.279227,Sun 12:00,Mon 00:45
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Mon 11:00,Mon 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Tue 11:00,Tue 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Wed 11:00,Wed 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Thu 11:00,Thu 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Fri 11:00,Fri 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Sat 12:00,Sat 21:30
+Leleko,Leleko,"Gedimino pr. 49, Vilnius",614,54.690513,25.264208,Sun 12:00,Sun 21:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Mon 10:00,Mon 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Tue 10:00,Tue 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Wed 10:00,Wed 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Thu 10:00,Thu 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Fri 10:00,Fri 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Sat 10:00,Sat 20:30
+Candy POP (VCUP),Candy POP,"Upės g. 9, PC CUP, Vilnius",13,54.69384,25.276502,Sun 10:00,Sun 20:30
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Mon 10:00,Mon 23:45
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Tue 10:00,Tue 23:45
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Wed 10:00,Wed 23:45
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Thu 10:00,Thu 23:45
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Fri 10:00,Fri 23:59
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Sat 10:00,Sat 23:59
+Pizzelle (Fabijoniškių g.),"Pizza Express, Fabijoniškės","Fabijoniškių 2a, Vilnius",677,54.722183,25.244554,Sun 10:00,Sun 23:45
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Mon 11:00,Mon 23:00
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Tue 11:00,Tue 23:00
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Wed 11:00,Wed 23:00
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Thu 11:00,Thu 23:00
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Fri 11:00,Fri 23:59
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Sat 11:00,Sat 23:59
+Casa Della Pasta (Vokiečių g.),Casa Della Pasta,Vokiečių g. 13,146,54.679981,25.2837351,Sun 11:00,Sun 23:00
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Tue 18:00,Tue 23:30
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Wed 18:00,Wed 23:30
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Thu 18:00,Thu 23:30
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Fri 18:00,Fri 23:45
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Sat 14:00,Sat 23:45
+Uncle Sam's American pub,Uncle Sam's American pub,"Vilniaus g. 33, Vilnius",2698,54.683583,25.278908,Sun 14:00,Sun 23:30
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Mon 11:00,Mon 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Tue 11:00,Tue 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Wed 11:00,Wed 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Thu 11:00,Thu 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Fri 11:00,Fri 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Sat 11:00,Sat 23:45
+Pizzelle (Didžioji g.),Čili Pizza,"Didžioji g. 5, Vilnius",2599,54.680274,25.2883142,Sun 11:00,Sun 23:45
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Mon 11:00,Mon 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Tue 11:00,Tue 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Wed 11:00,Wed 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Thu 11:00,Thu 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Fri 11:00,Fri 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Sat 11:00,Sat 21:30
+Viva Pizza & Sushi & Wok (Perkūnkiemio g.),"Viva Pizza & Sushi & Wok, Perkūnkiemio g. 13","Perkūnkiemio g. 13, Vilnius",264,54.7399062,25.2203586,Sun 11:00,Sun 21:30
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Mon 11:00,Mon 20:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Tue 11:00,Tue 20:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Wed 11:00,Wed 20:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Thu 11:00,Thu 20:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Fri 11:00,Fri 21:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Sat 11:00,Sat 21:00
+LeTea Bubble tea (Trakų g.),Le Tea,"Trakų g. 7, Vilnius",262,54.679941,25.279525,Sun 11:00,Sun 20:00
+Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2-156, Vilnius",107,54.72521,25.24376,Tue 11:00,Tue 20:00
+Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2-156, Vilnius",107,54.72521,25.24376,Wed 11:00,Wed 20:00
+Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2-156, Vilnius",107,54.72521,25.24376,Thu 11:00,Thu 20:00
+Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2-156, Vilnius",107,54.72521,25.24376,Fri 11:00,Fri 21:00
+Yama Sushi,"Yama sushi, Vilnius","Fabijoniškių g. 2-156, Vilnius",107,54.72521,25.24376,Sat 11:00,Sat 20:00
+
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Tue 11:00,Tue 19:00
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Wed 11:00,Wed 19:00
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Thu 11:00,Thu 19:00
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Fri 11:00,Fri 19:00
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Sat 12:00,Sat 19:00
+Samvelo šašlykai,Samvelo Šašlykai,"Žirnių g. 37, Vilnius",197,54.65541229999999,25.2777721,Sun 12:00,Sun 19:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Mon 08:00,Mon 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Tue 08:00,Tue 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Wed 08:00,Wed 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Thu 08:00,Thu 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Fri 08:00,Fri 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Sat 08:00,Sat 21:00
+Kler e Kler (Akropolis),Kler e kler,"Ozo g. 25, Vilnius",42,54.71176089999999,25.2655654,Sun 08:00,Sun 21:00
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Mon 07:10,Mon 18:25
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Tue 07:10,Tue 18:25
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Wed 07:10,Wed 18:25
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Thu 07:10,Thu 18:25
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Fri 07:10,Fri 18:25
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Sat 09:05,Sat 15:50
+Bella Toscana (Naugarduko g.),Bella toscana,"Naugarduko g. 70, Vilnius",63,54.6714196,25.2621621,Sun 09:05,Sun 11:20
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Mon 12:00,Mon 21:30
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Tue 12:00,Tue 21:00
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Wed 12:00,Wed 21:00
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Thu 12:00,Thu 21:00
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Fri 12:00,Fri 21:00
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Sat 12:00,Sat 21:00
+Veggie Hut,Jammi,"Sodų g. 15, Vilnius",230,54.672536,25.282693,Sun 12:00,Sun 21:00
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Mon 12:00,Mon 20:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Tue 12:00,Tue 20:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Wed 12:00,Wed 20:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Thu 12:00,Thu 20:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Fri 12:00,Fri 21:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Sat 12:00,Sat 21:30
+Queen Pizza (Šeškinės g.),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.7155242,25.2454198,Sun 12:00,Sun 19:30
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Mon 08:00,Mon 21:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Tue 08:00,Tue 21:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Wed 08:00,Wed 21:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Thu 08:00,Thu 21:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Fri 08:00,Fri 22:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Sat 08:00,Sat 22:00
+Flower Power (Subačiaus g.),Markučių gėlės by Flowerpower.lt,"Subačiaus g. 60, Vilnius",181,54.677039,25.3079994,Sun 08:00,Sun 21:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Mon 10:00,Mon 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Tue 10:00,Tue 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Wed 10:00,Wed 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Thu 10:00,Thu 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Fri 10:00,Fri 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Sat 10:00,Sat 20:00
+Mekan Döner Kebap (Benedikto turgus),Mekan Döner Kebab,"Ukmergės 259a, Vilnius",120,54.7281376,25.2409058,Sun 10:00,Sun 17:00
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Mon 11:00,Mon 21:30
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Tue 11:00,Tue 21:30
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Wed 11:00,Wed 21:30
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Thu 11:00,Thu 22:00
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Fri 10:00,Fri 20:00
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Sat 11:00,Sat 19:00
+Lucas Pizza (Upės g.),Charlie Pizza,"Upės g. 9, Vilnius",698,54.6938987,25.2756597,Sun 11:00,Sun 20:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Mon 09:00,Mon 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Tue 09:00,Tue 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Wed 09:00,Wed 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Thu 09:00,Thu 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Fri 09:00,Fri 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Sat 09:00,Sat 22:00
+Hesburger (Užubaliai),Hesburger,"Senasis Ukmergės kelias 8A, Užubalių kaimas",2088,54.7696456,25.1946277,Sun 10:00,Sun 22:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Mon 12:00,Mon 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Tue 12:00,Tue 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Wed 12:00,Wed 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Thu 12:00,Thu 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Fri 12:00,Sat 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Sat 12:00,Sun 23:00
+Osteria da Luca Pizzeria,Osteria da Luca,"Jono Basanavičiaus g. 15, Vilnius",486,54.6811835,25.2722748,Sun 12:00,Sun 23:00
+
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Mon 11:00,Mon 20:45
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Tue 11:00,Tue 20:45
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Wed 11:00,Wed 20:45
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Thu 11:00,Thu 20:45
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Fri 11:00,Fri 21:30
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Sat 10:00,Sat 21:30
+BOLA (Paupys),Bola,"Aukštaičių g. 7, Vilnius",44,54.6784695,25.3032575,Sun 10:00,Sun 19:30
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Mon 08:00,Mon 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Tue 08:00,Tue 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Wed 08:00,Wed 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Thu 08:00,Thu 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Fri 08:00,Fri 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Sat 10:00,Sat 22:00
+Kava Tau,KAVA TAU (Subačiaus apžvalgos aikštelė),Subačiaus apžvalgos aikštelė,379,54.6773565,25.3011821,Sun 10:00,Sun 22:00
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Mon 10:00,Mon 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Tue 10:00,Tue 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Wed 10:00,Wed 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Thu 10:00,Thu 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Fri 10:00,Fri 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Sat 10:00,Sat 18:45
+Senoji kibininė (Gedimino pr.),Senoji kibininė,"Gedimino pr. 9A, Vilnius 01105",8,54.686843,25.281818,Sun 11:00,Sun 18:45
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Mon 11:00,Mon 22:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Tue 11:00,Tue 22:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Wed 11:00,Wed 22:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Thu 11:00,Thu 22:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Fri 11:00,Sat 00:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Sat 12:00,Sun 00:30
+Grill London (Vilniaus g.),Grill London,"Vilniaus g. 33, Vilnius",4515,54.68347,25.279014,Sun 12:00,Sun 22:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Mon 10:00,Mon 21:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Tue 10:00,Tue 21:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Wed 10:00,Wed 21:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Thu 10:00,Thu 21:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Fri 10:00,Fri 22:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Sat 10:00,Sat 22:30
+Grill London (CUP),Grill London,"Upės g. 9, Vilnius",1551,54.69374,25.27633,Sun 10:00,Sun 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Mon 11:00,Mon 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Tue 11:00,Tue 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Wed 11:00,Wed 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Thu 11:00,Thu 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Fri 11:00,Fri 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Sat 11:00,Sat 21:30
+Grill London (Vilnius Outlet),Grill London,"Vytauto Pociūno g. 8, Vilnius",307,54.686843,25.281818,Sun 11:00,Sun 21:30
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Mon 10:00,Mon 22:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Tue 10:00,Tue 22:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Wed 10:00,Wed 22:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Thu 10:00,Thu 23:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Fri 10:00,Fri 23:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Sat 10:00,Sat 23:45
+Pizzelle (Vingis),Čili Pizza,"Savanorių pr. 7, Vilnius",764,54.678331,25.255593,Sun 10:00,Sun 22:45
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Mon 11:00,Mon 21:30
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Tue 11:00,Tue 21:30
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Wed 11:00,Wed 21:30
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Thu 11:00,Thu 22:00
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Fri 11:00,Fri 20:00
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Sat 12:00,Sat 22:00
+Lucas Pizza (Ozo g.),Charlie Pizza,"Ozo g. 18, Vilnius",1742,54.71393,25.27472,Sun 11:00,Sun 21:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Mon 10:00,Mon 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Tue 10:00,Tue 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Wed 10:00,Wed 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Thu 10:00,Thu 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Fri 10:00,Fri 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Sat 10:00,Sat 19:30
+Candy POP (Ogmia),Candy Pop,"Verkių g. 31 C, Vilnius",268,54.7148,25.29657,Sun 10:00,Sun 19:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Mon 10:00,Mon 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Tue 10:00,Tue 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Wed 10:00,Wed 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Thu 10:00,Thu 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Fri 10:00,Fri 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Sat 10:00,Sat 21:30
+Grill London (Ozas),Grill London,"Ozo g. 18, Vilnius",47,54.7148118,25.2751306,Sun 10:00,Sun 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Mon 10:00,Mon 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Tue 10:00,Tue 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Wed 10:00,Wed 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Thu 10:00,Thu 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Fri 10:00,Fri 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Sat 10:00,Sat 21:30
+Fon Pizza,Fon Pizza,"Eišiškių pl. 47, Vilnius",20,54.6428688,25.2618998,Sun 10:00,Sun 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Mon 11:00,Mon 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Tue 11:00,Tue 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Wed 11:00,Wed 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Thu 11:00,Thu 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Fri 11:00,Fri 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Sat 11:00,Sat 21:30
+Aloha restoranas,Aloha,"Ozo g. 14C, Vilnius",537,54.7160661,25.2776018,Sun 11:00,Sun 21:30
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Mon 10:15,Mon 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Tue 10:15,Tue 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Wed 10:15,Wed 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Thu 10:15,Thu 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Fri 10:15,Fri 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Sat 10:15,Sat 20:45
+Memo Kebabinė (Žemynos g.),Memo Kebabine,"Žemynos g. 18, Vilnius, Lithuania",555,54.72639,25.23253,Sun 11:15,Sun 19:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Mon 11:00,Mon 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Tue 11:00,Tue 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Wed 11:00,Wed 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Thu 11:00,Thu 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Fri 11:00,Fri 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Sat 11:00,Sat 21:45
+Express Pizza (Dvarčionys),Čili Take Away,Keramikų g. 4 Dvarčionys,129,54.728925,25.374418,Sun 11:00,Sun 21:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Mon 07:00,Mon 18:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Tue 07:00,Tue 18:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Wed 07:00,Wed 18:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Thu 07:00,Thu 18:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Fri 07:00,Fri 18:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Sat 09:00,Sat 17:45
+Caffeine (Naugarduko g.),Caffeine LT,"Naugarduko 98, Vilnius",13,54.6679848,25.2556009,Sun 09:00,Sun 17:45
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Mon 11:00,Mon 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Tue 11:00,Tue 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Wed 11:00,Wed 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Thu 11:00,Thu 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Fri 11:00,Fri 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Sat 11:00,Sat 21:00
+Cat Cafe / Kačių kavinė,Cat Cafe,"Gedimino pr. 5, Vilnius",3429,54.6865905,25.2832258,Sun 11:00,Sun 19:00
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Mon 11:00,Mon 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Tue 11:00,Tue 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Wed 11:00,Wed 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Thu 11:00,Thu 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Fri 11:00,Fri 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Sat 11:00,Sat 20:45
+BOLA (Ogmia),Bola,"Verkių g. 29C, Vilnius",46,54.7134421,25.2966971,Sun 11:00,Sun 18:45
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Mon 10:00,Mon 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Tue 10:00,Tue 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Wed 10:00,Wed 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Thu 10:00,Thu 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Fri 10:00,Fri 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Sat 11:00,Sat 21:00
+EatSushi,Eatsushi LT,"Konstitucijos pr. 7A-1, Vilnius",18,54.696341,25.276397,Sun 11:00,Sun 19:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Mon 10:00,Mon 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Tue 10:00,Tue 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Wed 10:00,Wed 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Thu 10:00,Thu 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Fri 10:00,Fri 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Sat 10:00,Sat 22:00
+Home of Ice Cream (Burger Street),Burger street,Antakalnio g. 44,476,54.703899,25.309777,Sun 10:00,Sun 22:00
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Mon 00:30,Mon 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Tue 00:30,Tue 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Wed 00:30,Wed 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Thu 00:30,Thu 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Fri 00:30,Fri 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Sat 00:30,Sat 23:30
+Circle k (Karoliniškės),Circle K Karoliniškės,"A.P.Kavoliuko g. 32A, Vilnius",672,54.720212,25.246242,Sun 00:30,Sun 23:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Mon 10:00,Mon 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Tue 10:00,Tue 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Wed 10:00,Wed 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Thu 10:00,Thu 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Fri 10:00,Fri 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Sat 10:00,Sat 20:30
+Candy POP (Ozas),Candy POP,Ozo g. 18,23,54.713967,25.25.272621,Sun 10:00,Sun 20:30
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Mon 10:00,Mon 20:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Tue 10:00,Tue 20:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Wed 10:00,Wed 20:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Thu 10:00,Thu 20:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Fri 10:00,Fri 20:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Sat 10:00,Sat 19:00
+DOGAN kebabai,DOGAN kebabai,"Senasis Ukmergės k. 27, Užubaliai, Avižienių sen., Vilniaus raj.",85,54.7753522,25.1939362,Sun 10:00,Sun 19:00
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Mon 11:30,Mon 19:45
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Tue 11:30,Tue 19:45
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Wed 11:30,Wed 19:45
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Thu 11:30,Thu 22:45
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Fri 11:30,Fri 22:00
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Sat 11:30,Sat 22:00
+Salotė Namoss,Salote Namoss,"Paplūdimio g. 4, Salotės k.",741,54.6957034,25.1812786,Sun 11:30,Sun 20:45
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Mon 00:30,Mon 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Tue 00:30,Tue 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Wed 00:30,Wed 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Thu 00:30,Thu 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Fri 00:30,Fri 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Sat 00:30,Sat 23:30
+Circle K (Tūkstantmetis),Circle K Tūkstantmetis,"Prūsų g. 26 A, Vilnius",316,54.6585353,25.2663467,Sun 00:30,Sun 23:30
+Pietūs (Jasinskio g. 16),Pietūs,J. Jasinskio gatvė 16,196,54.6878025,25.2610408,Mon 11:00,Mon 15:00
+Pietūs (Jasinskio g. 16),Pietūs,J. Jasinskio gatvė 16,196,54.6878025,25.2610408,Tue 11:00,Tue 15:00
+Pietūs (Jasinskio g. 16),Pietūs,J. Jasinskio gatvė 16,196,54.6878025,25.2610408,Wed 11:00,Wed 15:00
+Pietūs (Jasinskio g. 16),Pietūs,J. Jasinskio gatvė 16,196,54.6878025,25.2610408,Thu 11:00,Thu 15:00
+Pietūs (Jasinskio g. 16),Pietūs,J. Jasinskio gatvė 16,196,54.6878025,25.2610408,Fri 11:00,Fri 15:00
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Mon 10:00,Mon 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Tue 10:00,Tue 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Wed 10:00,Wed 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Thu 10:00,Thu 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Fri 10:00,Fri 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Sat 10:00,Sat 22:45
+Ridikėlis ir Salota (BIG),BIG Vilnius,"Ukmergės g. 369, Vilnius",4932,54.740177,25.2285291,Sun 10:00,Sun 22:45
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Mon 11:00,Mon 21:30
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Tue 11:00,Tue 21:30
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Wed 11:00,Wed 21:30
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Thu 11:00,Thu 22:00
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Fri 11:00,Fri 20:00
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Sat 12:30,Sat 22:00
+Rio Loco Bistro (Ozo g.),ASAKI Japanese Bistro,"Ozo g. 18, Vilnius",205,54.7143164,25.2746373,Sun 11:00,Sun 21:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Mon 10:00,Mon 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Tue 10:00,Tue 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Wed 10:00,Wed 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Thu 10:00,Thu 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Fri 10:00,Fri 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Sat 10:00,Sat 20:30
+Candy POP (Panorama),Candy POP,"Saltoniškių g. 9, Vilnius",41,54.7002762,25.256868,Sun 10:00,Sun 20:30
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Mon 11:00,Mon 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Tue 11:00,Tue 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Wed 11:00,Wed 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Thu 11:00,Thu 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Fri 11:00,Fri 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Sat 12:00,Sat 21:00
+PUBLiC,Public,"Kalvarijų g. 125, Vilnius",622,54.7103602,25.2871492,Sun 12:00,Sun 21:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Mon 10:00,Mon 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Tue 10:00,Tue 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Wed 10:00,Wed 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Thu 10:00,Thu 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Fri 10:00,Fri 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Sat 10:00,Sat 22:00
+La Pasta Makaronų Namai,La Pasta,"Verkių g 29A, Vilnius",712,54.713088,25.2952816,Sun 10:00,Sun 22:00
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Mon 10:30,Mon 23:45
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Tue 10:30,Tue 23:45
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Wed 10:30,Wed 23:45
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Thu 10:30,Thu 23:45
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Fri 10:30,Sat 01:15
+Maracas Mexican Cocina,Meksika,"Gynėjų g. 4, Vilnius",947,54.690891,25.26429,Sat 17:00,Sun 01:15
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Mon 11:00,Mon 20:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Tue 11:00,Tue 20:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Wed 11:00,Wed 20:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Thu 11:00,Thu 21:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Fri 11:00,Fri 21:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Sat 10:15,Sat 21:45
+Bebro Blyninė,Bebro blyninė Paupys,"Aukštaičių g. 7, Vilnius",53,54.6785362,25.3024761,Sun 10:15,Sun 19:45
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Mon 11:00,Mon 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Tue 11:00,Tue 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Wed 11:00,Wed 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Thu 11:00,Thu 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Fri 11:00,Fri 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Sat 11:00,Sat 19:00
+Daktaras Desertas (Naugarduko g.),DAKTARAS DESERTAS,"Naugarduko g. 26, Vilnius",133,54.6754372,25.2719587,Sun 11:00,Sun 19:00
+Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio 88, Vilnius",3,54.7035915,25.2796199,Mon 08:00,Mon 16:00
+Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio 88, Vilnius",3,54.7035915,25.2796199,Tue 08:00,Tue 16:00
+Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio 88, Vilnius",3,54.7035915,25.2796199,Wed 08:00,Wed 16:00
+Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio 88, Vilnius",3,54.7035915,25.2796199,Thu 08:00,Thu 16:00
+Skonio Ambasadoriai (Žalgirio g.),Skonio ambasadoriai,"Žalgirio 88, Vilnius",3,54.7035915,25.2796199,Fri 08:00,Fri 16:00
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Mon 11:00,Mon 21:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Tue 11:00,Tue 21:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Wed 11:00,Wed 21:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Thu 11:00,Thu 22:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Fri 11:00,Fri 22:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Sat 11:00,Sat 22:15
+St. Valentino,St. Valentino,"Vilniaus g. 47 / Trakų g. 18, Vilnius",603,54.6807837,25.2820584,Sun 11:00,Sun 21:00
+IT'S corndog,IT'S Corndog,"Gedimino pr 9, Vilnius",32,54.6872998,25.2817166,Mon 11:00,Mon 19:45
+IT'S corndog,IT'S Corndog,"Gedimino pr 9, Vilnius",32,54.6872998,25.2817166,Tue 11:00,Tue 20:45
+IT'S corndog,IT'S Corndog,"Gedimino pr 9, Vilnius",32,54.6872998,25.2817166,Wed 11:00,Wed 20:45
+IT'S corndog,IT'S Corndog,"Gedimino pr 9, Vilnius",32,54.6872998,25.2817166,Thu 11:00,Thu 19:45
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Mon 12:00,Mon 20:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Tue 12:00,Tue 20:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Wed 12:00,Wed 20:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Thu 12:00,Thu 20:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Fri 12:00,Fri 21:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Sat 12:00,Sat 21:40
+Chiwawa Pizza (Šeškinė),Chiwawa pizza,"Šeškinės g. 32, Vilnius",5,54.74069,25.22438,Sun 12:00,Sun 19:40
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Mon 11:00,Mon 20:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Tue 11:00,Tue 20:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Wed 11:00,Wed 20:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Thu 11:00,Thu 21:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Fri 11:00,Fri 21:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Sat 14:00,Sat 21:30
+Burna House,Burna House,Aukštaičių g. 7 Vilnius,97,54.6784887,25.3031877,Sun 14:00,Sun 21:30
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Mon 11:00,Mon 20:10
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Tue 11:00,Tue 20:10
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Wed 11:00,Wed 20:10
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Thu 11:00,Thu 20:10
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Fri 11:00,Fri 20:10
+Papa House,Papa House Grill & Lounge,"Stasio Krasausko g. 1, Vilnius",159,54.6447585,25.0905591,Sat 11:00,Sat 20:10
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Mon 11:00,Mon 21:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Tue 11:00,Tue 21:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Wed 11:00,Wed 21:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Thu 11:00,Thu 21:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Fri 11:00,Fri 22:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Sat 11:00,Sat 22:30
+Lucas Pizza (Ukmergės g.),Chief Pizza,"Ukmergės g. 308, Vilnius",530,54.74069,25.22438,Sun 12:00,Sun 21:30
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Mon 10:00,Mon 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Tue 10:00,Tue 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Wed 10:00,Wed 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Thu 10:00,Thu 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Fri 10:00,Fri 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Sat 10:00,Sat 20:00
+Steak Supply,STEAK SUPPLY,Linkmenu g. 22,16,54.7050309,25.2680058,Sun 10:00,Sun 17:00
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Mon 09:00,Mon 19:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Tue 09:00,Tue 19:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Wed 09:00,Wed 19:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Thu 09:00,Thu 19:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Fri 09:00,Fri 20:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Sat 09:00,Sat 20:45
+Tavo skonių kelionėms (Benedikto turgus),Benedikto Turgus,"Ukmergės 259A, Vilnius",2124,54.7281626,25.2410364,Sun 09:00,Sun 19:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Mon 07:00,Mon 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Tue 07:00,Tue 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Wed 07:00,Wed 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Thu 07:00,Thu 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Fri 07:00,Fri 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Sat 08:00,Sat 20:45
+Caffeine (Antakalnio g.),Caffeine LT,"Antakalnio 86, Vilnius",188,54.712815,25.3149091,Sun 08:00,Sun 20:45
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Mon 10:00,Mon 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Tue 10:00,Tue 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Wed 10:00,Wed 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Thu 10:00,Thu 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Fri 10:00,Fri 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Sat 10:00,Sat 19:30
+Piestro (Ogmios),Piestro,"Verkių g. 29, Vilnius",40,54.714303,25.296363,Sun 10:00,Sun 19:30
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Mon 10:00,Mon 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Tue 10:00,Tue 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Wed 10:00,Wed 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Thu 10:00,Thu 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Fri 10:00,Fri 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Sat 10:00,Sat 22:00
+Sushi Express (Pilaitės pr.),Sushi Express,"Pilaitės pr. 42, Vilnius",5,54.7092245,25.1848852,Sun 10:00,Sun 22:00
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Mon 10:00,Mon 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Tue 10:00,Tue 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Wed 10:00,Wed 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Thu 10:00,Thu 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Fri 10:00,Fri 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Sat 10:00,Sat 20:45
+Kaimų kaimas (Nordika),NØRDIKA,"Vikingų g. 3a, Vilnius",7935,54.65185,25.27736,Sun 10:00,Sun 20:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Mon 11:00,Mon 21:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Tue 11:00,Tue 21:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Wed 11:00,Wed 21:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Thu 11:00,Thu 21:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Fri 11:00,Fri 22:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Sat 11:00,Sat 22:45
+Asian Fusion (Saltoniškių g.),Manami,"Saltoniškių g. 9, Vilnius",797,54.699865,25.2584308,Sun 11:00,Sun 21:45
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Mon 12:00,Mon 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Tue 12:00,Tue 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Wed 12:00,Wed 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Thu 12:00,Thu 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Fri 12:00,Fri 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Sat 12:00,Sat 21:00
+Balzac,Balzac,"Savičiaus g., 7 Vilnius",631,54.6791426,25.2890453,Sun 12:00,Sun 21:00
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Mon 08:00,Mon 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Tue 08:30,Tue 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Wed 08:30,Wed 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Thu 08:00,Thu 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Fri 08:00,Fri 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Sat 08:00,Sat 20:30
+Crustum (Antakalnio g.),Crustum,"Antakalnio g. 43, Vilnius",93,54.7052812,25.3110814,Sun 08:30,Sun 20:30
 AlaTurka (Vilniaus g.),AlaTurka,"Vilniaus g. 12, 01402 Vilnius, Lithuania",11,54.68604699999999,25.2797363,Sun 11:00,Mon 06:00
 AlaTurka (Vilniaus g.),AlaTurka,"Vilniaus g. 12, 01402 Vilnius, Lithuania",11,54.68604699999999,25.2797363,Mon 11:00,Tue 06:00
 AlaTurka (Vilniaus g.),AlaTurka,"Vilniaus g. 12, 01402 Vilnius, Lithuania",11,54.68604699999999,25.2797363,Tue 11:00,Wed 06:00
