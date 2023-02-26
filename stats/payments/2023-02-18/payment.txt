@@ -1,0 +1,17 @@
+09:20,0,
+10:27,5.09,Holy Donut (Vilniaus g.)
+10:48,2.50,Ridikėlis ir salota (Fabijoniškių g.)
+10:52,2.50,Ridikėlis ir salota (Fabijoniškių g.)
+11:12,3.72,McDonald’s® (Ukmergės g.)
+11:40,3.44,Archie's Burger
+11:58,3.30,Jammi Kebab (Medeinos g.)
+12:20,3.37,Kebab n Curry (Ukmergės g.)
+16:25,0,
+17:08,7.18,Chačapuri Bistro (Europa)
+18:16,4.74,OlyBet Sports and Grill Bar
+18:39,4.03,Jammi kebab (Blindžių g.)
+19:13,6.85,Wraperia Suppa Kebs (Panorama)
+20:09,5.76,Archie's Burger
+20:52,2.68,Express Pizza (Žirmūnų g.)
+20:59,3.16,Express Pizza (Žirmūnų g.)
+22:05,3.51,SUSHIBARS.LT
